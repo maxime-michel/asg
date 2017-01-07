@@ -1,0 +1,17 @@
+title: Accorder sa guitare
+copyright: "© Accorder sa guitare 2011 – 2017"
+author: Maxime
+url: "https://www.accordersaguitare.com"
+
+medias:
+- url: https://twitter.com/accordguitare
+  fa_icon: fa-twitter
+- url: mailto:maxime@accordersaguitare.com
+  fa_icon: fa-envelope-o
+
+theme: classical
+font: Source+Sans+Pro
+lang: fr
+css: "#notes amp-audio { margin:0; }"
+
+environment: master
