@@ -1,0 +1,44 @@
+# site specifics
+
+title: Accorder sa guitare
+copyright: "© Accorder sa guitare 2011 – 2017"
+author: Maxime
+articles: Autres pages
+url: "https://www.accordersaguitare.com"
+
+medias:
+- url: https://twitter.com/accordguitare
+  fa_icon: fa-twitter
+- url: mailto:maxime@accordersaguitare.com
+  fa_icon: fa-envelope-o
+
+data_ad_client: ca-pub-8958001027539397
+data_ad_slot: 4097717265
+
+theme: classical
+
+# sane defaults
+
+collections:
+   pages:
+     output: true
+     permalink: ":path/"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+  sass_dir: _sass
+  style: :compressed
