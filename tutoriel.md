@@ -4,6 +4,7 @@ title: "Tutoriel sur l'utilisation des accordeurs en ligne"
 description: >
   Explications et tutoriel vidéo sur le fonctionnement de l'accordeur 
   disponible sur le site.
+img: index
 ---
 
 Voici une vidéo montrant la manière dont vous devez utiliser le site pour 

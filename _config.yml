@@ -4,9 +4,12 @@ title: Accorder sa guitare
 copyright: "© Accorder sa guitare 2011 – 2017"
 author: Maxime
 articles: Autres pages
+comments: commentaires
 url: "https://www.accordersaguitare.com"
 
 medias:
+#- url: TODO
+#  fa_icon: fa-facebook
 - url: https://twitter.com/accordguitare
   fa_icon: fa-twitter
 - url: mailto:maxime@accordersaguitare.com
@@ -14,6 +17,8 @@ medias:
 
 data_ad_client: ca-pub-8958001027539397
 data_ad_slot: 4097717265
+
+facebook: 806462456169369
 
 theme: classical
 

@@ -15,6 +15,7 @@ redirect_from:
   - /accordeurs-pour-smartphones/
   - /audio/
   - /flash/
+img: index
 ---
 
 Cet accordeur en ligne se sert du micro de votre ordinateur et fonctionne comme 
@@ -31,7 +32,7 @@ G, B, E.
 
 {% include ad.html %}
 
-<iframe id="tuner" src="https://guitar-tuner.appspot.com/"></iframe>
+{% include iframe.html src="https://guitar-tuner.appspot.com/" %}
 
 Voici aussi les notes justes d'une guitare acoustique accordée en Mi (accordage 
 standard), qui vous permettront de vous accorder à l'oreille, ce qui est un 
@@ -63,5 +64,3 @@ excellent exercice pour l'oreille.
     <td>{% include audio.html file="accordeur/mi-aigu" loop=true %}</td>
   </tr>
 </table>
-
-{% include mailchimp.html %}

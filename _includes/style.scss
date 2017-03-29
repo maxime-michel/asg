@@ -3,16 +3,17 @@
 @import 'mixins';
 @import 'global';
 @import 'layout';
-@import 'ouibounce';
+@import 'font-awesome';
 
 // site specifics here
 
-#tuner {
-  height: 500px;
-  width: 100%;
-  border: 0;
-}
+.page-index, .page-404 { background-image: url('/img/pages/index.jpg') }
+.page-accordages-alternatifs { background-image: url('/img/pages/accordages-alternatifs.jpg') }
+.page-accorder-d-autres-instruments { background-image: url('/img/pages/accorder-d-autres-instruments.jpg') }
+.page-acheter-un-accordeur { background-image: url('/img/pages/acheter-un-accordeur.jpg') }
+.page-guitare-acoustique-ou-electrique-que-choisir { background-image: url('/img/pages/guitare-acoustique-ou-electrique-que-choisir.jpg') }
+.page-l-accordage-explique-aux-debutants { background-image: url('/img/pages/l-accordage-explique-aux-debutants.jpg') }
+.page-les-meilleurs-exercices-pour-autodidactes { background-image: url('/img/pages/les-meilleurs-exercices-pour-autodidactes.jpg') }
+.page-protegez-vos-oreilles { background-image: url('/img/pages/protegez-vos-oreilles.jpg') }
 
-#notes audio {
-  margin-bottom: 0;
-}
+#notes amp-audio { margin:0; }
