@@ -12,3 +12,4 @@ comments:
   moderation: true
   path: "_data/comments/{options.slug}"
   requiredFields: ["name", "message"]
+  allowedOrigins: ["localhost", "accordersaguitare.com"]
