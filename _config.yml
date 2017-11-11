@@ -13,5 +13,3 @@ theme: classical
 font: Source+Sans+Pro
 lang: fr
 css: "#notes amp-audio { margin:0; }"
-
-environment: master
