@@ -13,3 +13,8 @@ theme: classical
 font: Source+Sans+Pro
 lang: fr
 css: "#notes amp-audio { margin:0; }"
+
+mailchimpTitle: "S'accorder comme un pro"
+mailchimpLead: "Vous jouez depuis plusieurs années et voulez connaître une méthode encore plus efficace de vous accorder ? Recevez gratuitement mon guide PDF (5 pages) sur les méthodes utilisées par les musiciens professionnels, en remplissant le formulaire ci-dessous :"
+mailchimpUrl: https://accordersaguitare.us15.list-manage.com/subscribe/post?u=88f74bac90be8782706e16cfe&amp;id=1ae0e7aa7a
+mailchimpHiddenValue: b_88f74bac90be8782706e16cfe_1ae0e7aa7a
