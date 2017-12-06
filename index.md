@@ -2,8 +2,8 @@
 date: 2011-08-15
 title: "Accorder sa guitare gratuitement en ligne"
 description: >
-  Accordeur moderne pour guitare en ligne, sons des cordes pour s'accorder à 
-  l'oreille, guides pour débutants. Le site référence depuis 2011 !
+  Accordeur guitare en ligne, sons des cordes pour s'accorder à l'oreille, 
+  guides pour débutants et astuces utilisées par les pros.
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
   - /2012/accordeurs-gratuits-en-ligne/
