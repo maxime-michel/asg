@@ -1,0 +1,6 @@
+_id: 2ab5abf0-db82-11e7-95c9-2dc45a1a7a05
+name: test
+message: "test with line break\r\nbla\r\nbla\r\nand single quote '"
+date: '2017-12-07T19:09:37.105Z'
+tags:
+  - ''
