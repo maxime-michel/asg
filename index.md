@@ -34,7 +34,8 @@ débutants »](/l-accordage-explique-aux-debutants/), le nom des notes qui
 doivent s'afficher est, de la corde la plus grosse à la plus petite : **E, A, 
 D, G, B, E**.
 
-{% include iframe.html src="https://accordeur.accordersaguitare.com/" %}
+{% include iframe.html src="https://accordeur.accordersaguitare.com/"
+allow="microphone" %}
 
 Voici aussi les notes justes d'une guitare acoustique accordée en Mi (accordage 
 standard), qui vous permettront de vous accorder à l'oreille, ce qui est un 
