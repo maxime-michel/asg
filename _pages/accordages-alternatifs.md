@@ -9,9 +9,9 @@ redirect_from:
   - /led-zeppelin-kashmir-re-sus4-ouvert/
 ---
 
-Cet article détaille les accordages utilisés par Jimi Hendrix, Stevie Ray 
-Vaughan, ainsi que celui de Jimmy Page de Led Zeppelin, dans la chanson 
-Kashmir.
+Cet article détaille les accordages utilisés par [Jimi Hendrix][hendrix], 
+[Stevie Ray Vaughan][srv], ainsi que celui de [Jimmy Page][page] de Led 
+Zeppelin, dans la chanson Kashmir.
 
 ## Accordage de Jimi Hendrix
 
@@ -28,11 +28,11 @@ qu'il a fréquentés au début de sa carrière lui permettait de jouer plus
 facilement avec les cuivres, qui utilisent les tonalités Mi bémol ou Si bémol 
 la plupart du temps.
 
-La sonorité de cet accordage n'apporte ne vous changera pas vraiment de 
-l'accordage standard, puisque les deux accordages sont les mêmes, celui de Jimi 
-Hendrix étant un demi-ton plus grave. Pour accorder en Mi bémol une guitare 
-accordée de manière standard (en Mi), il faut baisser toutes les cordes d'un 
-demi-ton. Ce qui nous donne, dans l'ordre :
+La sonorité de cet accordage n'apporte pas grand chose de plus que l'accordage 
+standard, puisque les deux accordages sont les mêmes, celui de Jimi Hendrix 
+étant un demi-ton plus grave. Pour accorder en Mi bémol une guitare accordée de 
+manière standard (en Mi), il faut baisser toutes les cordes d'un demi-ton. Ce 
+qui nous donne, dans l'ordre :
 
 - Mi bémol (grosse corde)
 - La bémol
@@ -82,12 +82,12 @@ manière que votre corde de Ré.
 
 Le résultat final est le suivant, de la plus grosse corde à la plus petite :
 
-- D=Ré
-- A=La
-- D=Ré
-- G=Sol
-- A=La
-- D=Ré
+- D = Ré
+- A = La
+- D = Ré
+- G = Sol
+- A = La
+- D = Ré
 
 ### Un peu de théorie
 
@@ -106,3 +106,7 @@ Sol (quarte) et La (quinte) ; que l'on retrouve bien sur notre manche !
 ### Extrait
 
 {% include youtube.html id="sfR_HWMzgyc" %}
+
+[hendrix]:https://fr.wikipedia.org/wiki/Jimi_Hendrix
+[srv]:https://fr.wikipedia.org/wiki/Stevie_Ray_Vaughan
+[page]:https://fr.wikipedia.org/wiki/Jimmy_Page

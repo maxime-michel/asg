@@ -25,10 +25,6 @@ et simplement cliquer sur **« Autoriser »** (voir [tutoriel](/tutoriel/)).
 recommandé de l'amplifier pour que l'accordeur puisse bien capter la hauteur 
 des notes.
 
-Si vous utilisez un **iPhone**, un **iPad**, ou un **Mac avec le navigateur 
-Safari**, vous devez cliquer <a href="https://accordeur.accordersaguitare.com" 
-target="_blank">ici</a> pour accéder à l'accordeur. (expérimental)
-
 Petit rappel de notre guide [« L'accordage expliqué aux 
 débutants »](/l-accordage-explique-aux-debutants/), le nom des notes qui 
 doivent s'afficher est, de la corde la plus grosse à la plus petite : **E, A, 

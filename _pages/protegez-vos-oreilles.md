@@ -8,7 +8,7 @@ description: >
 
 Vous avez peut-être déjà entendu parler des acouphènes par un ami qui en 
 souffre. Les acouphènes sont des bruits qu'une personne entend sans qu'il y ait 
-réellement de bruit. Ils sont en général des sifflements aigus, mais pas 
+de bruit réel. Ils sont en général des sifflements aigus, mais pas 
 nécessairement. Ils peuvent avoir diverses causes mais sont souvent dus à une 
 exposition prolongée à des volumes trop élevés. Parmi les guitaristes connus, 
 Neil Young, Jeff Beck ou Eric Clapton en souffrent. Il y a trois choses 
@@ -47,8 +47,8 @@ volume ait baissé.
 
 Je terminerai par une note positive : malgré tous les témoignages désespérés 
 que l'on trouve sur Internet, malgré les premiers temps qui sont si difficiles 
-à traverser, dans la plupart des cas on finit par s'habituer aux acouphènes et 
-ne presque plus les entendre. Ils disparaissent même dans certains cas. 
+à traverser, dans la plupart des cas on finit par s'habituer aux acouphènes, et 
+à ne presque plus les entendre. Ils disparaissent même dans certains cas. 
 Protégez-vous donc tant que vous pouvez ! Mais essayez de dramatiser le moins 
 possible si vous deviez par malheur en souffir un jour.
 
