@@ -10,8 +10,8 @@ Les musiciens professionnels se divisent en deux catégories : les gens qui ont
 appris la musique à l'oreille, et les gens qui ont appris à lire des 
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
 pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, un 
-musicien aura plutôt privilégié l'une que l'autre pour la majorité de son 
-apprentissage.
+musicien aura plutôt privilégié une approche que l'autre pour la majorité de 
+son apprentissage.
 
 Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
