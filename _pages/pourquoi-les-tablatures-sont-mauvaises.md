@@ -9,23 +9,23 @@ description: >
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 
 appris la musique à l'oreille, et les gens qui ont appris à lire des 
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
-pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, ces deux 
-voies sont les principales qui s'offrent naturellement à chacun lorsqu'il 
-débute.
+pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, un 
+musicien aura plutôt privilégié l'une que l'autre pour la majorité de son 
+apprentissage.
 
-Les guitaristes amateurs apprennent eux des morceaux via des tablatures. Depuis 
-peu on voit aussi des vidéos YouTube avec la tablature en sous-titre, ce qui 
-revient au même. Dans un cas comme dans l'autre, les notes sont servies sur un 
-plateau d'argent, dans une notation simplifiée, sans que l'oreille n'ait à 
-travailler.
+Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
+tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
+sous-titre, ce qui revient au même. Dans un cas comme dans l'autre, les notes 
+sont servies sur un plateau d'argent, dans une notation simplifiée, sans que 
+l'oreille n'ait à travailler.
 
 ## L'oreille ne travaille pas quand on lit une tablature
 
-Et c'est bien là tout le problème. Que votre oreille n'ait pas besoin d'être 
-impliquée pour que vous puissiez jouer le morceau ne permet pas de s'imprégner 
-de la musique. Se créé une relation immédiate aux notes, qui ne favorise pas 
-votre développement, et vous empêchera de jouer des morceaux pour lesquels vous 
-n'avez pas trouvé de tablature.
+Et c'est bien là tout le problème. Jouer le morceau sans que votre oreille ait 
+été impliquée ne permet pas de vous imprégner de la musique. Une relation 
+immédiate aux notes se créée, ce qui ne favorise pas votre développement, et 
+vous empêchera de jouer des morceaux pour lesquels vous n'avez pas trouvé de 
+tablature.
 
 Certains me rétorqueront peut-être que la tablature étant approximative, 
 l'oreille doit être active pour que le placement soit bon, ou pour identifier 
@@ -48,7 +48,8 @@ flou, du cas par cas, de l'arbitraire. On voit certes parfois des tablatures
 qui indiquent le rythme, elles se servent alors de la notation que l'on 
 retrouve sur les partitions. Mais à mon sens l'intérêt est moindre. A 
 l'exception des guitaristes classiques, la grande majorité des guitaristes ne 
-connaît pas ces signes. Pour les comprendre, il faut les avoir étudiés.
+connaît pas ces signes. Pour les comprendre, il faut les avoir étudiés et 
+beaucoup pratiqués.
 
 ## Que faire ?
 
@@ -63,11 +64,11 @@ rythmiquement les plans que vous jouez. Vous pouvez certes le faire à l'oreille
 notation rythmique classique. Vous n'aurez pas à réinventer la roue et pourrez 
 utiliser le même vocabulaire que les autres musiciens.
 
-J'utilise à cet effet le logiciel Ear Master. Il propose plusieurs chapitres 
-dont des exercices de rythme, que vous devez taper sur votre clavier ou votre 
-souris, et que l'ordinateur corrige si nécessaire. Les exercices sont 
-progressifs et correspondent à un cursus complet. Le logiciel est disponible en 
-français.
+J'utilise à cet effet le logiciel [Ear Master][ear-master]. Il propose 
+plusieurs chapitres dont des exercices de rythme, que vous devez taper sur 
+votre clavier ou votre souris, et que l'ordinateur corrige si nécessaire. Les 
+exercices sont progressifs et correspondent à un cursus complet. Le logiciel 
+est disponible en français.
 
 ## Conclusion
 
@@ -75,4 +76,6 @@ Vous devez avoir des fondations très solides pour votre jeu, et la rythmique en
 fait partie. Faire de l'à peu près vous amènera à stagner, à vous frustrer, 
 pour certains à arrêter l'instrument. Ou alors, comme moi il y a quelques 
 années, à ce que vos lacunes, accentuées par le stress, se dévoilent au pire 
-moment, en concert devant plusieurs centaines personnes.
+moment, en concert devant plusieurs centaines personnes…
+
+[ear-master]:https://www.earmaster.com/fr/
