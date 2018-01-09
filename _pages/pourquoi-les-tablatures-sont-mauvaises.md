@@ -3,15 +3,15 @@ date: 2018-01-07
 title: "Pourquoi les tablatures sont une mauvaise méthode"
 description: >
   Comparaison des tablatures utilisées dans l'apprentissage en autodidacte de 
-  la guitare, au travail plus fructueux de l'oreille ou du solfège.
+  la guitare au travail plus fructueux de l'oreille ou du solfège.
 ---
 
 Les musiciens professionnels se divisent en deux catégories : les gens qui ont 
 appris la musique à l'oreille, et les gens qui ont appris à lire des 
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
-pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, un 
-musicien aura plutôt privilégié une approche que l'autre pour la majorité de 
-son apprentissage.
+pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les 
+musiciens que nous écoutons ont soit démarré leur apprentissage à l'oreille ou 
+dans une école.
 
 Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
