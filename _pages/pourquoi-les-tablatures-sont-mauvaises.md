@@ -21,11 +21,11 @@ l'oreille n'ait à travailler.
 
 ## L'oreille ne travaille pas quand on lit une tablature
 
-Et c'est bien là tout le problème. Jouer le morceau sans que votre oreille 
-n'ait à s'impliquer ne permet pas de vous imprégner de la musique. Une relation 
-immédiate aux notes se créée, ce qui ne favorise pas votre développement en 
-tant que musicien, et vous empêchera de jouer des morceaux pour lesquels vous 
-n'avez pas trouvé de tablature.
+Et c'est bien là tout le problème. Jouer le morceau sans que l'oreille n'ait à 
+s'impliquer ne permet pas de s'imprégner de la musique. Une relation immédiate 
+aux notes se créée, ce qui ne favorise pas le développement des compétences 
+musicales, et empêchera le guitariste concerné de jouer des morceaux pour 
+lesquels il n'a pas trouvé de tablature.
 
 Certains me rétorqueront peut-être que la tablature étant approximative, 
 l'oreille doit être active pour que le placement soit bon, ou pour identifier 
@@ -43,8 +43,8 @@ identifier les notes en un coup d'œil, mais aussi taper le rythme des mains,
 même pour des morceaux qu'ils ne connaissent pas !
 
 Pour les tablatures, en revanche, l'apprentissage est beaucoup plus rapide. 
-D'ailleurs il n'y a pas vraiment de notation arrêtée. On est dans le domaine du 
-flou, du cas par cas, de l'arbitraire. On voit certes parfois des tablatures 
+D'ailleurs, il n'y a pas vraiment de notation arrêtée. On est dans le domaine 
+du flou, du cas par cas, de l'arbitraire. On voit certes parfois des tablatures 
 qui indiquent le rythme, elles se servent alors de la notation que l'on 
 retrouve sur les partitions. Mais à mon sens l'intérêt est moindre. A 
 l'exception des guitaristes classiques, la grande majorité des guitaristes ne 
@@ -53,9 +53,9 @@ beaucoup pratiqués.
 
 ## Que faire ?
 
-Je vous suggére donc d'étudier le rythme. Si vous avez l'impression que vous 
-stagnez, si vous avez des problèmes à garder un tempo, si vous avez des 
-problèmes de précision, si vous ne groovez pas, alors cette piste vous 
+Je suggére donc aux guitaristes d'étudier le rythme. Si vous avez l'impression 
+que vous stagnez, si vous avez des problèmes à garder un tempo, si vous avez 
+des problèmes de précision, si vous ne groovez pas, alors cette piste vous 
 apportera des bases solides.
 
 Pour être vraiment à l'aise, vous devez être capable de décomposer 
