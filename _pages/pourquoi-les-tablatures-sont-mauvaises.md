@@ -10,8 +10,8 @@ Les musiciens professionnels se divisent en deux catégories : les gens qui ont
 appris la musique à l'oreille, et les gens qui ont appris à lire des 
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
 pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les 
-musiciens que nous écoutons ont soit démarré leur apprentissage à l'oreille ou 
-dans une école.
+musiciens que nous écoutons ont démarré leur apprentissage principalement grâce 
+à des transcriptions de disques, ou dans une école.
 
 Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
@@ -21,11 +21,11 @@ l'oreille n'ait à travailler.
 
 ## L'oreille ne travaille pas quand on lit une tablature
 
-Et c'est bien là tout le problème. Jouer le morceau sans que votre oreille ait 
-été impliquée ne permet pas de vous imprégner de la musique. Une relation 
-immédiate aux notes se créée, ce qui ne favorise pas votre développement, et 
-vous empêchera de jouer des morceaux pour lesquels vous n'avez pas trouvé de 
-tablature.
+Et c'est bien là tout le problème. Jouer le morceau sans que votre oreille 
+n'ait à s'impliquer ne permet pas de vous imprégner de la musique. Une relation 
+immédiate aux notes se créée, ce qui ne favorise pas votre développement en 
+tant que musicien, et vous empêchera de jouer des morceaux pour lesquels vous 
+n'avez pas trouvé de tablature.
 
 Certains me rétorqueront peut-être que la tablature étant approximative, 
 l'oreille doit être active pour que le placement soit bon, ou pour identifier 
