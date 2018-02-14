@@ -64,11 +64,11 @@ rythmiquement les plans que vous jouez. Vous pouvez certes le faire à l'oreille
 notation rythmique classique. Vous n'aurez pas à réinventer la roue et pourrez 
 utiliser le même vocabulaire que les autres musiciens.
 
-J'utilise à cet effet le logiciel [Ear Master][ear-master]. Il propose 
-plusieurs chapitres dont des exercices de rythme, que vous devez taper sur 
-votre clavier ou votre souris, et que l'ordinateur corrige si nécessaire. Les 
-exercices sont progressifs et correspondent à un cursus complet. Le logiciel 
-est disponible en français.
+J'utilise à cet effet le logiciel [Ear Master][earmaster]. Il propose plusieurs 
+chapitres dont des exercices de rythme, que vous devez taper sur votre clavier 
+ou votre souris, et que l'ordinateur corrige si nécessaire. Les exercices sont 
+progressifs et correspondent à un cursus complet. Le logiciel est disponible en 
+français.
 
 ## Conclusion
 
