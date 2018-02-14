@@ -11,7 +11,7 @@ appris la musique à l'oreille, et les gens qui ont appris à lire des
 partitions. Evidemment, dans l'idéal, un musicien complet devra être à l'aise 
 pour jouer un morceau avec ou sans partition. Mais, si l'on simplifie, les 
 musiciens que nous écoutons ont démarré leur apprentissage principalement grâce 
-à des transcriptions de disques, ou dans une école.
+à leurs propres transcriptions, ou dans une école.
 
 Grâce à Internet, les guitaristes amateurs apprennent eux des morceaux via des 
 tablatures. Depuis peu on voit aussi des vidéos YouTube avec la tablature en 
@@ -53,7 +53,7 @@ beaucoup pratiqués.
 
 ## Que faire ?
 
-Je suggére donc aux guitaristes d'étudier le rythme. Si vous avez l'impression 
+Je suggère donc aux guitaristes d'étudier le rythme. Si vous avez l'impression 
 que vous stagnez, si vous avez des problèmes à garder un tempo, si vous avez 
 des problèmes de précision, si vous ne groovez pas, alors cette piste vous 
 apportera des bases solides.
@@ -78,4 +78,4 @@ pour certains à arrêter l'instrument. Ou alors, comme moi il y a quelques
 années, à ce que vos lacunes, accentuées par le stress, se dévoilent au pire 
 moment, en concert devant plusieurs centaines personnes…
 
-[ear-master]:https://www.earmaster.com/fr/
+[earmaster]:http://earmaster.accordersaguitare.com
