@@ -19,8 +19,7 @@ Si cela ne fonctionne pas, c'est que votre micro n'est pas correctement
 configuré avec votre navigateur. Vous pouvez néanmoins vous accorder en 
 écoutant les sons individuels de chaque corde.
 
-Si vous avez une question, n'hésitez pas à m'écrire [un email][email] ou [un 
-tweet][twitter].
+Si vous avez une question, n'hésitez pas à m'écrire [un email][email] ou à 
+soumettre un commentaire ci-dessous.
 
 [email]: mailto:maxime@accordersaguitare.com
-[twitter]: https://twitter.com/accordguitare
