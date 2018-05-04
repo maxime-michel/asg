@@ -4,6 +4,8 @@ author: Maxime
 url: "https://www.accordersaguitare.com"
 
 medias:
+- url: https://twitter.com/accordguitare
+  fa_icon: fa-twitter
 - url: mailto:maxime@accordersaguitare.com
   fa_icon: fa-envelope-o
 
