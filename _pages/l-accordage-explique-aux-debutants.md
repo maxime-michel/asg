@@ -2,7 +2,8 @@
 date: 2013-06-21
 title: "L'accordage expliqué aux débutants de A à Z"
 description: >
-  Présentation détaillée de la manière d'accorder une guitare quand on débute.
+  Pourquoi doit-on accorder une guitare ? Explication et présentation en images 
+  de la manière classique de le faire quand on débute.
 redirect_from:
   - /2011/l-accordage-explique-aux-debutants/
 ---
@@ -11,23 +12,26 @@ D'une manière générale, tous les instruments de musique se désaccordent. Cel
 est vrai pour la guitare, mais aussi pour le piano, la harpe ou le violon. 
 Chaque corde d'une guitare est en effet soumise à une tension qui peut aller de 
 6 à 10 kg, et cette énergie tend à se dissiper naturellement avec le temps, ce 
-qui désaccorde la guitare. De plus, l'humidité et la chaleur influencent le 
-bois et le font sécher ou gonfler, ce qui participe aussi à dérégler petit à 
-petit l'instrument. Par conséquent, il n'est jamais superflu de contrôler 
-l'accordage de sa guitare avant de commencer à jouer.
+qui désaccorde la guitare.
+
+De plus, l'humidité et la chaleur influencent le bois et le font sécher ou 
+gonfler, ce qui participe aussi à dérégler petit à petit l'instrument. Par 
+conséquent, il n'est jamais superflu de contrôler l'accordage de sa guitare 
+avant de commencer à jouer.
 
 ## Le La 440 hz
 
 Le La 440 hz est une note de référence utilisée par tous les musiciens et 
 disponible sur tous les accordeurs. C'est aussi la note qui est donnée par la 
 plupart des [diapasons](http://diapason.accordersaguitare.com) lorsqu'ils sont 
-frappés et qu'ils se mettent à vibrer. Pour commencer à accorder votre guitare, 
-il faut jouer sur la mécanique (les mécaniques sont les éléments situés en haut 
-du manche dans lesquels les cordes sont enroulées) et faire en sorte, à 
-l'oreille, que le La de référence corresponde à un La de votre guitare. Cette 
-étape est difficile à réaliser pour le débutant, qui aura sans doute meilleur 
-temps dans un premier temps d'acheter un accordeur, mais il est important qu'il 
-en comprenne le principe.
+frappés et qu'ils se mettent à vibrer.
+
+Pour commencer à accorder votre guitare, il faut jouer sur la mécanique (les 
+mécaniques sont les éléments situés en haut du manche dans lesquels les cordes 
+sont enroulées) et faire en sorte, à l'oreille, que le La de référence 
+corresponde à un La de votre guitare. Cette étape est difficile à réaliser pour 
+le débutant, qui aura sans doute meilleur temps dans un premier temps d'acheter 
+un accordeur, mais il est important d'en comprendre le principe.
 
 ## Les cordes de votre guitare
 
@@ -52,12 +56,12 @@ Il est possible que vous soyez confronté à la notation anglaise lorsque vous
 cherchez des tablatures sur Google par exemple. Il est important de savoir 
 que :
 
-- E=Mi (E majuscule car corde grave)
-- A=La
-- D=Ré
-- G=Sol
-- B=Si
-- e=Mi (e minuscule car corde aiguë)
+- E = Mi (E majuscule car corde grave)
+- A = La
+- D = Ré
+- G = Sol
+- B = Si
+- e = Mi (e minuscule car corde aiguë)
 
 ## Les notes sur le manche
 

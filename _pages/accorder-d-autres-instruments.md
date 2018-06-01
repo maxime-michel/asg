@@ -17,10 +17,12 @@ deux différences. La première est que la basse, comme son nom l'indique, est u
 instrument dont la tessiture est grave. Par conséquent, il peut être plus 
 difficile pour l'accordeur de capter les notes que vous jouez et il faudra donc 
 avoir recours à votre oreille pour affiner l'accordage, en particulier pour les 
-cordes les plus graves. La deuxième différence est qu'une basse ne comprend que 
-quatre cordes là où une guitare standard en comporte six. L'accordage EADGBe 
-(Mi, La, Ré, Sol, Si, Mi) devient ainsi EADG (Mi, La, Ré, Sol) : c'est en fait 
-celui d'une guitare sans les deux cordes les plus aiguës.
+cordes les plus graves.
+
+La deuxième différence est qu'une basse ne comprend que quatre cordes là où une 
+guitare standard en comporte six. L'accordage EADGBe (Mi, La, Ré, Sol, Si, Mi) 
+devient ainsi EADG (Mi, La, Ré, Sol) : c'est en fait celui d'une guitare sans 
+les deux cordes les plus aiguës.
 
 {% include figure.html src="basse.jpeg" alt="Une basse électrique" width=325 
 height=325 %}
@@ -29,7 +31,7 @@ height=325 %}
 
 L'ukulélé s'accorde de la même manière qu'une guitare et une basse, avec des 
 mécaniques en bout de manche qui permettent de régler la hauteur des cordes. 
-L'accordage standard de l'ukulélé est GCEA (Sol, Do, Mi, La). La différence 
+L'accordage standard de l'ukulélé est **GCEA** (Sol, Do, Mi, La). La différence 
 majeure avec la guitare est que la première corde, la corde de Sol, est plus 
 haute que les cordes de Do et de Mi ; au contraire de la guitare où les notes 
 vont de la plus grave à la plus aiguë. On parle alors pour l'ukulélé 
@@ -50,8 +52,8 @@ le manche. Si l'on cherche à corriger légèrement l'accordage, les petites
 molettes du chevalet sont à préférer. Pour les accordages plus conséquents, 
 passer par les chevilles sur le manche. Attention à ne toutefois pas trop 
 serrer, cela pourrait briser la corde ! Les notes que l'on cherche à atteindre 
-sont, de la plus grave à la plus aiguë, GDAE (Sol, Ré, La, Mi) pour le violon 
-et CGDA (Do, Sol, Ré, La) pour le violoncelle.
+sont, de la plus grave à la plus aiguë, **GDAE** (Sol, Ré, La, Mi) pour le 
+violon et **CGDA** (Do, Sol, Ré, La) pour le violoncelle.
 
 {% include figure.html src="violon.jpeg" alt="Un violon" width=396 height=384 
 %}

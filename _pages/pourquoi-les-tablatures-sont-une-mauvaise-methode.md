@@ -73,9 +73,10 @@ français.
 ## Conclusion
 
 Vous devez avoir des fondations très solides pour votre jeu, et la rythmique en 
-fait partie. Faire de l'à peu près vous amènera à stagner, à vous frustrer, 
-pour certains à arrêter l'instrument. Ou alors, comme moi il y a quelques 
-années, à ce que vos lacunes, accentuées par le stress, se dévoilent au pire 
-moment, en concert devant plusieurs centaines personnes…
+fait partie. [Faire de l'à peu près vous amènera à stagner, à vous frustrer, 
+pour certains à arrêter l'instrument.][autodidactes] Ou alors, comme moi il y a 
+quelques années, à ce que vos lacunes, accentuées par le stress, se dévoilent 
+au pire moment, en concert devant plusieurs centaines personnes…
 
 [earmaster]:http://earmaster.accordersaguitare.com
+[autodidactes]:/les-meilleurs-exercices-pour-autodidactes/

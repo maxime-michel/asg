@@ -2,11 +2,12 @@
 date: 2013-08-03
 title: "Exercices pour progresser comme autodidacte"
 description: >
-  Conseils pour les autodidactes qui ont l'impression de ne plus progresser.
+  Conseils et réfléxions pour les autodidactes qui ont l'impression de ne plus 
+  progresser et qui ont peut-être brûlé les étapes.
 ---
 
 Corrigez-moi si je me trompe, mais il me semble que ce qui caractérise 
-l'autodidacte, c'est son envie d'apprendre à jouer rapidement. On entend très 
+l'autodidacte, c'est son envie d'apprendre à jouer *rapidement*. On entend très 
 souvent les adolescents dire qu'ils veulent apprendre la musique « mais sans 
 faire de solfège », par exemple. Quoique l'impatience est parfois une vertu 
 elle me semble ici dangereuse. Certes, pour une grande partie de ces débutants, 
