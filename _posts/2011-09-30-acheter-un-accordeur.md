@@ -22,7 +22,7 @@ link="https://www.secretsdemusiciens.com/liens/korg-ga1/" width=520 height=361
 
 ### Démonstration
 
-{% include youtube.html id="YvGugizVZoQ" %}
+{% include video id="YvGugizVZoQ" provider="youtube" %}
 
 ## Guitares électriques
 
@@ -68,4 +68,4 @@ width=241 height=350 %}
 
 ## Démonstration
 
-{% include youtube.html id="fnosoyhQaHs" %}
+{% include video id="fnosoyhQaHs" provider="youtube" %}

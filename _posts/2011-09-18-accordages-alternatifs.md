@@ -42,7 +42,7 @@ qui nous donne, dans l'ordre :
 
 ### Extrait
 
-{% include youtube.html id="03yPUlBE5OU" %}
+{% include video id="03yPUlBE5OU" provider="youtube" %}
 
 ### Stevie Ray Vaughan
 
@@ -104,7 +104,7 @@ Sol (quarte) et La (quinte) ; que l'on retrouve bien sur notre manche !
 
 ### Extrait
 
-{% include youtube.html id="sfR_HWMzgyc" %}
+{% include video id="sfR_HWMzgyc" provider="youtube" %}
 
 [hendrix]:https://fr.wikipedia.org/wiki/Jimi_Hendrix
 [srv]:https://fr.wikipedia.org/wiki/Stevie_Ray_Vaughan

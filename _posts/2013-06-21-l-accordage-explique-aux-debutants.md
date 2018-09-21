@@ -110,7 +110,7 @@ la corde de La" title="Dernière étape" width=707 height=169 %}
 
 ## Explication vidéo
 
-{% include youtube.html id="yo_wfCN2m9U" %}
+{% include video id="yo_wfCN2m9U" provider="youtube" %}
 
 ## Questions ?
 
