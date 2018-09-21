@@ -1,5 +1,4 @@
 ---
-date: 2011-09-30
 title: "Quel accordeur acheter ?"
 excerpt: >
   Présentation et essai des accordeurs Korg GA30 et 40, ainsi que le Korg

@@ -1,5 +1,4 @@
 ---
-date: 2013-06-21
 title: "L'accordage expliqué aux débutants de A à Z"
 excerpt: >
   Pourquoi doit-on accorder une guitare ? Explication et présentation en images 

@@ -1,5 +1,4 @@
 ---
-date: 2013-06-21
 title: "Guitare acoustique ou électrique : que choisir ?"
 excerpt: >
   Découvrez quel instrument choisir pour bien débuter et quelles sont les

@@ -1,5 +1,4 @@
 ---
-date: 2011-09-18
 title: "Exemples d'accordages alternatifs (rock)"
 excerpt: >
   Présentation de l'accordage de Jimi Hendrix, Stevie Ray Vaughan, ainsi que

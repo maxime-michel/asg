@@ -1,5 +1,4 @@
 ---
-date: 2015-01-02
 title: "Accorder d'autres instruments communs"
 excerpt: >
   Guide pour accorder un ukulélé, une basse, un violon, un violoncelle ou un
