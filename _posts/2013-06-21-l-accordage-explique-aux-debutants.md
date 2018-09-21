@@ -3,6 +3,11 @@ title: "L'accordage expliqué aux débutants de A à Z"
 excerpt: >
   Pourquoi doit-on accorder une guitare ? Explication et présentation en images 
   de la manière classique de le faire quand on débute.
+header:
+  teaser: /img/livre-partition_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/livre-partition.jpg
 redirect_from:
   - /2011/l-accordage-explique-aux-debutants/
 ---

@@ -3,6 +3,11 @@ title: "Accorder d'autres instruments communs"
 excerpt: >
   Guide pour accorder un ukulélé, une basse, un violon, un violoncelle ou un
   piano avec un accordeur en ligne.
+header:
+  teaser: /img/touches-piano_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/touches-piano.jpg
 ---
 
 Bien que ce site attire une majorité de guitaristes, les outils qu'il propose 

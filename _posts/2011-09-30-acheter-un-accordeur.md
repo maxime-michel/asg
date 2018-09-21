@@ -3,6 +3,11 @@ title: "Quel accordeur acheter ?"
 excerpt: >
   Présentation et essai des accordeurs Korg GA30 et 40, ainsi que le Korg
   Pitchblack pour guitares électriques.
+header:
+  teaser: /img/mecaniques-guitare_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/mecaniques-guitare.jpg
 redirect_from:
   - /guitares-acoustiques/
   - /guitares-electriques/
