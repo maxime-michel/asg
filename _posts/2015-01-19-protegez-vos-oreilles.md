@@ -1,7 +1,7 @@
 ---
 date: 2015-01-19
 title: "Protégez vos oreilles"
-description: >
+excerpt: >
   Présentation des diverses protections auditives sur le marché et conseils
   pour leur utilisation.
 ---

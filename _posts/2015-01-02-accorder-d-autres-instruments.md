@@ -1,7 +1,7 @@
 ---
 date: 2015-01-02
 title: "Accorder d'autres instruments communs"
-description: >
+excerpt: >
   Guide pour accorder un ukulélé, une basse, un violon, un violoncelle ou un
   piano avec un accordeur en ligne.
 ---

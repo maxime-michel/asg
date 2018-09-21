@@ -1,7 +1,7 @@
 ---
 date: 2011-09-18
 title: "Exemples d'accordages alternatifs (rock)"
-description: >
+excerpt: >
   Présentation de l'accordage de Jimi Hendrix, Stevie Ray Vaughan, ainsi que
   celui de Led Zeppelin dans Kashmir.
 redirect_from:
