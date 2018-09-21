@@ -31,10 +31,10 @@ Pour se protéger, il faut se procurer des protections auditives, appelées auss
 
 - [les bouchons à usage unique][unique] : ce sont ces morceaux de mousse de 
 forme cylindrique et de couleur vive que vous avez probablement déjà vus 
-[(exemple)](http://boules-quies.accordersaguitare.com)
+[(exemple)][boules-quies]
 - [les protections auditives préformées][preforme] : plus discrètes, elles sont 
 disponibles en plusieurs tailles et offrent une protection plus poussée à un 
-prix qui reste abordable [(exemple)](http://alpine-pro.accordersaguitare.com)
+prix qui reste abordable [(exemple)][alpine-pro]
 - [les protections auditives sur mesure][mesure] : moulées selon la forme de 
 votre oreille, ces protections sont les plus efficaces
 
@@ -55,3 +55,5 @@ possible si vous deviez par malheur en souffir un jour.
 [mesure]:http://upload.wikimedia.org/wikipedia/commons/1/10/Bouchon_sur_mesure.jpg
 [preforme]:http://upload.wikimedia.org/wikipedia/commons/9/92/Bouchon_d%27oreille_préformé.jpg
 [unique]:http://upload.wikimedia.org/wikipedia/commons/1/13/Bouchon_à_façonner.jpg
+[boules-quies]:https://www.secretsdemusiciens.com/liens/boules-quies/
+[alpine-pro]:https://www.secretsdemusiciens.com/liens/alpine-pro/

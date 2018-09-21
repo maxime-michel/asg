@@ -9,16 +9,17 @@ redirect_from:
   - /guitares-electriques/
 ---
 
-Pour les guitares acoustiques, les accordeurs Korg GA30 et GA40 sont une 
-référence en terme de précision et de solidité. Ils ont l'avantage d'être :
+Pour les guitares acoustiques, les accordeurs Korg GA1 sont une référence en 
+terme de précision et de solidité. Ils ont l'avantage d'être :
 
 - portables, ils se glissent facilement dans une housse
 - utilisables sans câble avec les guitares acoustiques
 - avec câble avec les guitares électriques ou électro-acoustiques
 - très bon marché
 
-{% include figure.html src="accordeur-korg-ga40.jpg" alt="Korg GA40" 
-link="http://korg-ga40.accordersaguitare.com" width=520 height=361 %}
+{% include figure.html src="accordeur-korg-ga1.jpg" alt="Korg GA1"
+link="https://www.secretsdemusiciens.com/liens/korg-ga1/" width=520 height=361
+%}
 
 ### Démonstration
 
@@ -63,8 +64,8 @@ recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur
 son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 
 {% include figure.html src="accordeur-korg-pitchblack.jpg" alt="Korg 
-Pitchblack" link="http://pitchblack-mini.accordersaguitare.com" width=241 
-height=350 %}
+Pitchblack" link="https://www.secretsdemusiciens.com/liens/pitchblack-mini/"
+width=241 height=350 %}
 
 ## Démonstration
 

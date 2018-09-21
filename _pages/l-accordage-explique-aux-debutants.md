@@ -23,8 +23,8 @@ avant de commencer à jouer.
 
 Le La 440 hz est une note de référence utilisée par tous les musiciens et 
 disponible sur tous les accordeurs. C'est aussi la note qui est donnée par la 
-plupart des [diapasons](http://diapason.accordersaguitare.com) lorsqu'ils sont 
-frappés et qu'ils se mettent à vibrer.
+plupart des [diapasons][diapason] lorsqu'ils sont frappés et qu'ils se mettent 
+à vibrer.
 
 Pour commencer à accorder votre guitare, il faut jouer sur la mécanique (les 
 mécaniques sont les éléments situés en haut du manche dans lesquels les cordes 
@@ -120,3 +120,5 @@ très bon exercice pour travailler votre oreille, même s'il peut s'avérer
 frustrant pour le débutant au départ. Pour un accordage plus précis et plus 
 rapide, je ne peux que vous recommander [d'acquérir un 
 accordeur](/acheter-un-accordeur/).
+
+[diapason]:https://www.secretsdemusiciens.com/liens/diapason/
