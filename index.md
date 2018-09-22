@@ -68,7 +68,3 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
     <td>{% include audio.html file="accordeur/mi-aigu" loop=true %}</td>
   </tr>
 </table>
-
-<div class="entries-grid">
-  {% include posts-category.html taxonomy=posts type=grid %}
-</div>
