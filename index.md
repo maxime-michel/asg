@@ -7,6 +7,7 @@ description: >
 layout: single
 comments: true
 classes: wide
+author_profile: true
 slug: "index" # for comments
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
