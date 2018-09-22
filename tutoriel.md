@@ -13,7 +13,7 @@ différent à l'époque, mais le fonctionnement général est le même : vous d
 avant tout autoriser le site à accéder à votre micro pour que l'accordeur 
 fonctionne.
 
-{% include video.html file="accorder-gratuitement-sa-guitare-en-ligne" %}
+// TODO: video
 
 Si cela ne fonctionne pas, c'est que votre micro n'est pas correctement 
 configuré avec votre navigateur. Vous pouvez néanmoins vous accorder en 
