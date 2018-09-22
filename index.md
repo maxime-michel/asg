@@ -5,6 +5,8 @@ description: >
   Accordeur guitare en ligne, sons des cordes pour s'accorder à l'oreille, 
   guides pour débutants et astuces utilisées par les pros.
 layout: single
+comments: true
+classes: wide
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
   - /2012/accordeurs-gratuits-en-ligne/
