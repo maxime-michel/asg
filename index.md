@@ -8,6 +8,7 @@ layout: single
 comments: true
 classes: wide
 author_profile: true
+share: true
 related: true # ?
 slug: "index" # ?
 redirect_from:
