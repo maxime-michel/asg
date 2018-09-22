@@ -4,7 +4,9 @@ title: "Accorder sa guitare gratuitement en ligne"
 description: >
   Accordeur guitare en ligne, sons des cordes pour s'accorder à l'oreille, 
   guides pour débutants et astuces utilisées par les pros.
-layout: single
+layout: collection
+collection: posts
+entries_layout: grid
 comments: true
 classes: wide
 author_profile: true
