@@ -21,9 +21,9 @@ terme de précision et de solidité. Ils ont l'avantage d'être :
 - avec câble avec les guitares électriques ou électro-acoustiques
 - très bon marché
 
-{% include figure.html src="accordeur-korg-ga1.jpg" alt="Korg GA1"
-link="https://www.secretsdemusiciens.com/liens/korg-ga1/" width=520 height=361
-%}
+{% include figure alt="Korg GA1"
+image_path="/img/accordeur-korg-ga1.jpg"
+caption="https://www.secretsdemusiciens.com/liens/korg-ga1/" %}
 
 ### Démonstration
 
@@ -67,9 +67,9 @@ y a quelques années et il m'a toujours été fidèle. Il a l'avantage d'être 
 recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur 
 son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 
-{% include figure.html src="accordeur-korg-pitchblack.jpg" alt="Korg 
-Pitchblack" link="https://www.secretsdemusiciens.com/liens/pitchblack-mini/"
-width=241 height=350 %}
+{% include figure alt="Korg Pitchblack"
+image_path="/img/accordeur-korg-pitchblack.jpg"
+caption="https://www.secretsdemusiciens.com/liens/pitchblack-mini/" %}
 
 ## Démonstration
 

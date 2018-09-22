@@ -28,8 +28,9 @@ guitare standard en comporte six. L'accordage EADGBe (Mi, La, Ré, Sol, Si, Mi)
 devient ainsi EADG (Mi, La, Ré, Sol) : c'est en fait celui d'une guitare sans 
 les deux cordes les plus aiguës.
 
-{% include figure.html src="basse.jpeg" alt="Une basse électrique" width=325 
-height=325 %}
+{% include figure alt="Une basse électrique"
+image_path="/img/basse.jpeg"
+caption="TODO" %}
 
 ## Accorder son ukulélé
 
@@ -43,8 +44,9 @@ d'accordage « rentrant » et c'est l'accordage standard, mais il existe bien
 entendu d'autres possibilités en fonction du style et des chansons que l'on 
 cherche à jouer.
 
-{% include figure.html src="ukulele.jpeg" alt="Un ukulélé" width=300 height=300 
-%}
+{% include figure alt="Un ukulélé"
+image_path="/img/ukulele.jpeg"
+caption="TODO" %}
 
 ## Accorder son violon ou violoncelle
 
@@ -59,8 +61,9 @@ serrer, cela pourrait briser la corde ! Les notes que l'on cherche à atteindre
 sont, de la plus grave à la plus aiguë, **GDAE** (Sol, Ré, La, Mi) pour le 
 violon et **CGDA** (Do, Sol, Ré, La) pour le violoncelle.
 
-{% include figure.html src="violon.jpeg" alt="Un violon" width=396 height=384 
-%}
+{% include figure alt="Un violon"
+image_path="/img/violon.jpeg"
+caption="TODO" %}
 
 ## Accorder son piano
 
@@ -77,5 +80,6 @@ laquelle les accordeurs professionnels suivent une formation de plusieurs
 années et facturent leurs services. Ils ont une oreille expérimentée qui leur 
 permet de sentir la manière dont l'instrument va réagir.
 
-{% include figure.html src="piano.png" alt="Un piano à queue" width=300 
-height=335 %}
+{% include figure alt="Un piano à queue"
+image_path="/img/piano.png"
+caption="TODO" %}

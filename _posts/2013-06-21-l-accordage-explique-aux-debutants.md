@@ -39,8 +39,8 @@ un accordeur, mais il est important d'en comprendre le principe.
 
 ## Les cordes de votre guitare
 
-{% include figure.html src="manche-guitare-notes-aigu-grave.png" alt="Manche 
-d'une guitare avec notes" width=194 height=279 %}
+{% src="manche-guitare-notes-aigu-grave.png" alt="Manche d'une guitare avec 
+notes" %}
 
 La très grande majorité des guitares possèdent 6 cordes qui sont accordées 
 selon l'accordage dit « standard ». Chaque jeu de cordes se compose de trois 
@@ -76,9 +76,8 @@ pouvez donc vous servir de cette corde comme référence pour accorder les autre
 cordes, de la même manière que vous avez accordé cette première corde avec le 
 La 440 hz.
 
-{% include figure.html src="manche-guitare-notes.png" title="Notes sur le 
-manche" alt="Illustration du manche de la guitare avec notes" width=707 
-height=179 %}
+{% src="manche-guitare-notes.png" title="Notes sur le manche" alt="Illustration 
+du manche de la guitare avec notes"%}
 
 ## La méthode classique
 
@@ -86,32 +85,32 @@ La méthode classique consiste précisément à accorder le La de la petite cord
 de Mi avec le La de référence. Ensuite, on joue cette corde de Mi à vide, et on 
 essaie de la rapprocher au plus du Mi de la 5ème case de la corde de Si.
 
-{% include figure.html src="manche-guitare-mi.png" alt="La de la 5ème case de 
-la corde de Mi" title="Première étape" width=707 height=169 %}
+{% src="manche-guitare-mi.png" alt="La de la 5ème case de la corde de Mi" 
+title="Première étape" %}
 
 Une fois cette nouvelle corde accordée, on la joue à vide et on la compare au 
 Si de la 4ème case de la corde de Sol :
 
-{% include figure.html src="manche-guitare-si.png" alt="Mi de la 5ème case de 
-la corde de Si" title="Deuxième étape" width=707 height=169 %}
+{% src="manche-guitare-si.png" alt="Mi de la 5ème case de la corde de Si" 
+title="Deuxième étape"  %}
 
 On recommence en jouant la corde de Sol à vide et en la comparant au Sol de la 
 5ème case de la corde de Ré :
 
-{% include figure.html src="manche-guitare-sol.png" alt="Si de la 4ème case de 
-la corde de Sol" title="Troisième étape" width=707 height=169 %}
+{% src="manche-guitare-sol.png" alt="Si de la 4ème case de la corde de Sol" 
+title="Troisième étape"  %}
 
 On accorde ensuite le Ré de la 5ème case de la corde de La avec la corde de Ré 
 à vide :
 
-{% include figure.html src="manche-guitare-re.png" alt="Sol de la 5ème case de 
-la corde de Ré" title="Quatrième étape" width=707 height=169 %}
+{% src="manche-guitare-re.png" alt="Sol de la 5ème case de la corde de Ré" 
+title="Quatrième étape"  %}
 
 Enfin, on termine par le La de la 5ème case de la corde de Mi qui doit 
 coïncider avec la corde de La à vide.
 
-{% include figure.html src="manche-guitare-la.png" alt="Ré de la 5ème case de 
-la corde de La" title="Dernière étape" width=707 height=169 %}
+{% src="manche-guitare-la.png" alt="Ré de la 5ème case de la corde de La" 
+title="Dernière étape" %}
 
 ## Explication vidéo
 
