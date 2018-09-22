@@ -69,3 +69,5 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
     <td>{% include audio.html file="accordeur/mi-aigu" loop=true %}</td>
   </tr>
 </table>
+
+{% include mailchimp.html %}
