@@ -8,7 +8,8 @@ layout: single
 comments: true
 classes: wide
 author_profile: true
-slug: "index" # for comments
+related: true # ?
+slug: "index" # ?
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
   - /2012/accordeurs-gratuits-en-ligne/
