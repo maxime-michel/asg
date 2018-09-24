@@ -73,12 +73,11 @@ author:
   avatar           : /img/avatar.jpg
   bio              : "Musicien enthousiaste."
   location         : "Bâle"
-  email            : "maxime@accordersaguitare.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "Website"
+    - label: "Site"
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
 
@@ -88,7 +87,7 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "Website"
+    - label: "Site"
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
 
