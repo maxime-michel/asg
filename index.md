@@ -9,7 +9,6 @@ comments: true
 classes: wide
 author_profile: true
 share: true
-related: true # ?
 slug: "index" # ?
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
