@@ -9,7 +9,6 @@ comments: true
 classes: wide
 author_profile: true
 share: true
-slug: "index" # ?
 redirect_from:
   - /2011/accordeurs-gratuits-en-ligne/
   - /2012/accordeurs-gratuits-en-ligne/
