@@ -13,10 +13,10 @@ redirect_from:
 ---
 
 D'une manière générale, tous les instruments de musique se désaccordent. Cela 
-est vrai pour la guitare, mais aussi pour le piano, la harpe ou le violon. 
-Chaque corde d'une guitare est en effet soumise à une tension qui peut aller de 
-6 à 10 kg, et cette énergie tend à se dissiper naturellement avec le temps, ce 
-qui désaccorde la guitare.
+est vrai pour la guitare, [mais aussi pour le piano, la harpe ou le 
+violon][autres-instruments]. Chaque corde d'une guitare est en effet soumise à 
+une tension qui peut aller de 6 à 10 kg, et cette énergie tend à se dissiper 
+naturellement avec le temps, ce qui désaccorde la guitare.
 
 De plus, l'humidité et la chaleur influencent le bois et le font sécher ou 
 gonfler, ce qui participe aussi à dérégler petit à petit l'instrument. Par 
@@ -125,3 +125,4 @@ rapide, je ne peux que vous recommander [d'acquérir un
 accordeur](/acheter-un-accordeur/).
 
 [diapason]:https://www.secretsdemusiciens.com/liens/diapason/
+[autres-instruments]:/accorder-d-autres-instruments/
