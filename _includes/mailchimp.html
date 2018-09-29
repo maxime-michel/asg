@@ -1,23 +1,26 @@
 <div class="notice--info" style="font-size: inherit !important; padding-top: 0.125em;">
-  <h2>S'accorder comme un pro</h2>
-  <p>Vous jouez depuis plusieurs années et voulez connaître une méthode encore plus efficace de vous accorder ? Recevez gratuitement mon <strong>guide PDF (5 pages)</strong> sur les méthodes utilisées par les musiciens professionnels, en remplissant le formulaire ci-dessous :</p>
+  <h2>{{ site.mailchimp.title }}</h2>
+  {{ site.mailchimp.lead | markdownify }}
 
-  <form target="_blank" method="post" action="https://accordersaguitare.us15.list-manage.com/subscribe/post?u=88f74bac90be8782706e16cfe&amp;id=1ae0e7aa7a" novalidate style="background-color: inherit; padding: 0; margin: 0;">
+  {%comment%}
+    The 'u' and 'id' fields are passed directly to the target URL because when passed
+    as 'value' properties on hidden input fields, they are filtered out during the build.
+  {%endcomment%}
+
+  <form target="_blank" method="post" action="https://{{ site.mailchimp.list }}.{{ site.mailchimp.dc }}.list-manage.com/subscribe/post?u={{ site.mailchimp.u }}&amp;id={{ site.mailchimp.id }}" novalidate style="background-color: inherit; padding: 0; margin: 0;">
+
+    {% for field in site.mailchimp.fields %}
+      {% assign type = field[1].type %}
+      {% assign merge = field[1].merge %}
+      {% assign placeholder = field[1].placeholder %}
+
+      <div class="form-group">
+        <input type="{{ field.type }}" name="{{ field.merge }}" placeholder="{{ field.placeholder }}">
+      </div>
+    {% endfor %}
 
     <div class="form-group">
-      <input type="text" name="NAME" placeholder="Votre prénom">
-    </div>
-
-    <div class="form-group">
-      <input type="email" name="EMAIL" placeholder="Votre adresse mail">
-    </div>
-
-    <div class="form-group hidden" style="display: none;">
-      <input type="text" name="b_88f74bac90be8782706e16cfe_1ae0e7aa7a" tabindex="-1" value="">
-    </div>
-
-    <div class="form-group">
-      <button type="submit" class="btn btn--info btn--large">Je m'inscris »</button>
+      <button type="submit" class="btn btn--info btn--large">{{ site.mailchimp.confirm }}</button>
     </div>
   </form>
 
