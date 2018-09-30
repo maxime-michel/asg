@@ -48,7 +48,7 @@ S'agissant des styles de musique qui se jouent avec ces deux guitares, on peut
 mentionner le classique et le jazz pour les guitares classiques et le rock, la 
 pop et le blues pour la guitare folk.
 
-{% include figure alt="Une guitare folk" image_path="/img/guitare-folk.png"
+{% include figure alt="Une guitare folk" image_path="/img/guitare-folk.jpg"
 caption="Une guitare folk" %}
 
 Extrait de guitare folk :
@@ -56,7 +56,7 @@ Extrait de guitare folk :
 {% include audio.html file="folk" %}
 
 {% include figure alt="Une guitare classique" caption="Une guitare classique"
-image_path="/img/guitare-classique.jpeg" %}
+image_path="/img/guitare-classique.jpg" %}
 
 Extrait de guitare classique :
 
@@ -86,7 +86,7 @@ sur les amplis plusieurs boutons qui servent à régler le son et peuvent prête
 à confusion, au début.
 
 {% include figure alt="Une guitare électrique" caption="Une guitare électrique"
-image_path="/img/guitare-electrique.jpeg" %}
+image_path="/img/guitare-electrique.jpg" %}
 
 Extrait de guitare électrique :
 
