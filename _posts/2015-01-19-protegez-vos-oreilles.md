@@ -27,9 +27,8 @@ exemple.
 corps émet et laisser faire beaucoup de dégâts sans que nous nous en rendions 
 compte sur le moment.
 
-{% include figure alt="Une protection auditive"
-image_path="/img/protections-oreilles.jpg"
-caption="TODO" %}
+{% include figure alt="Une oreille avec une protection auditive" 
+image_path="/img/protections-oreilles.jpg" caption="Une protection auditive" %}
 
 Pour se protéger, il faut se procurer des protections auditives, appelées aussi 
 « boules quiès ». Il y en a trois types :
