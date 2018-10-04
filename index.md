@@ -38,6 +38,18 @@ D, G, B, E**.
 
 <iframe allow="microphone" style="height: 500px; width: 100%; border: 0;" src="https://accordeur.accordersaguitare.com/"></iframe>
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ASG #1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2493011358476103"
+     data-ad-slot="6081268093"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Voici aussi les notes justes d'une guitare acoustique accordée en Mi (accordage 
 standard), qui vous permettront de vous accorder à l'oreille, ce qui est un 
 **excellent exercice pour l'oreille**.
