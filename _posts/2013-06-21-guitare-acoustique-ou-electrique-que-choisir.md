@@ -10,8 +10,8 @@ header:
   overlay_image: /img/differentes-guitares.jpg
 ---
 
-Parmi les questions qui se posent lorsque l'on veut commencer la guitare, 
-celles qui reviennent le plus sont les suivantes :
+Parmi les questions qui se posent lorsqu'on veut commencer la guitare, celles 
+qui reviennent le plus sont les suivantes :
 
 - avec quel type de guitare faut-il débuter ?
 - devrais-je commencer sur une acoustique si je veux jouer de l'électrique par 
