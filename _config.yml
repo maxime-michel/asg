@@ -26,8 +26,8 @@ staticman:
   branch                 : "master"
   endpoint               : "https://staticman-app.herokuapp.com/v2/entry/"
 reCaptcha:
-  siteKey                : "6LeG0XIUAAAAAJi09Lwn61wTiPSNKU55hO_cxOvQ"
-  secret                 : "S42xlyepH3RHGJhXeyjNw4jIm9pifTcN9mLK3IUSQtWOd5koKFXSIVRKi5x1SSetzKE9/m5doIHIU9NaJLtVNfnqO+8BsTrCMmXFV+C2ud5sv3A63Uc5aGx7gbGlluICSKz5qOjCh7SDUlhFPGnNuE+nTjYN2AHBXwZ5ZFarUh0DfSmvB/KPxAQMZGc0R9w56x/qwe/yy+dSjyB7a6UAccOiDi5gFvs6NbbtTSrv6Va4cFy8SlBYRsp4lhRQbHmVo5KOzYmfbO4AgxZ5G8t/nWsJ2izYO/VSPU21rmLV0Ub3ejcSevZSOWRCHQlercCoiGRHG240ajfVfQLmdEfNgg=="
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
