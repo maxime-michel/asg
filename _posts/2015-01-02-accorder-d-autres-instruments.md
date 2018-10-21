@@ -28,23 +28,23 @@ guitare standard en comporte six. L'accordage EADGBe (Mi, La, Ré, Sol, Si, Mi)
 devient ainsi EADG (Mi, La, Ré, Sol) : c'est en fait celui d'une guitare sans 
 les deux cordes les plus aiguës.
 
-{% include figure alt="Une basse électrique" image_path="/img/basse.jpeg"
-caption="Une basse électrique" %}
+{% include figure alt="Un homme qui joue de la basse électrique" 
+image_path="/img/homme-basse.jpg" caption="Une basse électrique" %}
 
 ## Accorder son ukulélé
 
-L'ukulélé s'accorde de la même manière qu'une guitare et une basse, avec des 
+L'ukulélé s'accorde de la même manière qu'une guitare ou une basse, avec des 
 mécaniques en bout de manche qui permettent de régler la hauteur des cordes. 
 L'accordage standard de l'ukulélé est **GCEA** (Sol, Do, Mi, La). La différence 
 majeure avec la guitare est que la première corde, la corde de Sol, est plus 
 haute que les cordes de Do et de Mi ; au contraire de la guitare où les notes 
 vont de la plus grave à la plus aiguë. On parle alors pour l'ukulélé 
-d'accordage « rentrant » et c'est l'accordage standard, mais il existe bien 
+d'accordage « rentrant », et c'est l'accordage standard, mais il existe bien 
 entendu d'autres possibilités en fonction du style et des chansons que l'on 
 cherche à jouer.
 
-{% include figure alt="Un ukulélé" caption="Un ukulélé" 
-image_path="/img/ukulele.jpeg" %}
+{% include figure alt="Une femme qui joue de l'ukulélé" caption="Un ukulélé" 
+image_path="/img/femme-ukulele.jpg" %}
 
 ## Accorder son violon ou violoncelle
 
@@ -59,8 +59,8 @@ serrer, cela pourrait briser la corde ! Les notes que l'on cherche à atteindre
 sont, de la plus grave à la plus aiguë, **GDAE** (Sol, Ré, La, Mi) pour le 
 violon et **CGDA** (Do, Sol, Ré, La) pour le violoncelle.
 
-{% include figure alt="Un violon" image_path="/img/violon.jpeg" caption="Un 
-violon" %}
+{% include figure alt="Une femme qui joue du violon" 
+image_path="/img/femme-violon.jpg" caption="Un violon" %}
 
 ## Accorder son piano
 
@@ -72,10 +72,10 @@ mécaniques, le piano droit ou à queue est un instrument beaucoup plus difficil
 Ensuite, ce n'est pas 6 cordes qu'il faut accorder, mais 88 notes correspondant 
 chacune à une ou plusieurs cordes (au maximum 3). De plus, suivant l'état du 
 piano, il est même parfois impossible d'obtenir un accordage au La 440 Hz d'un 
-seul coup et il faut y aller par paliers progressifs. C'est la raison pour 
+seul coup, et il faut y aller par paliers progressifs. C'est la raison pour 
 laquelle les accordeurs professionnels suivent une formation de plusieurs 
 années et facturent leurs services. Ils ont une oreille expérimentée qui leur 
 permet de sentir la manière dont l'instrument va réagir.
 
-{% include figure alt="Un piano à queue" image_path="/img/piano.png" 
-caption="Un piano à queue" %}
+{% include figure alt="Un homme qui joue un piano à queue" 
+image_path="/img/homme-piano.jpg" caption="Un piano à queue" %}

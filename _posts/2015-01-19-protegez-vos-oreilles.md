@@ -56,8 +56,8 @@ que l'on trouve sur Internet, malgré les premiers temps qui sont si difficiles
 Protégez-vous donc tant que vous pouvez ! Mais essayez de dramatiser le moins 
 possible si vous deviez par malheur en souffir un jour.
 
-[mesure]:http://upload.wikimedia.org/wikipedia/commons/1/10/Bouchon_sur_mesure.jpg
-[preforme]:http://upload.wikimedia.org/wikipedia/commons/9/92/Bouchon_d%27oreille_préformé.jpg
-[unique]:http://upload.wikimedia.org/wikipedia/commons/1/13/Bouchon_à_façonner.jpg
+[mesure]:https://upload.wikimedia.org/wikipedia/commons/1/10/Bouchon_sur_mesure.jpg
+[preforme]:https://upload.wikimedia.org/wikipedia/commons/9/92/Bouchon_d%27oreille_préformé.jpg
+[unique]:https://upload.wikimedia.org/wikipedia/commons/1/13/Bouchon_à_façonner.jpg
 [boules-quies]:https://www.secretsdemusiciens.com/liens/boules-quies/
 [alpine-pro]:https://www.secretsdemusiciens.com/liens/alpine-pro/

@@ -8,6 +8,7 @@ layout: single
 comments: true
 classes: wide
 author_profile: true
+slug: "tutoriel"
 ---
 
 Voici une vidéo montrant la manière dont vous devez utiliser le site pour 

@@ -12,6 +12,12 @@ redirect_from:
   - /2011/l-accordage-explique-aux-debutants/
 ---
 
+<style>
+/* override theme's 100% wide images default on this page */
+figure img { width: auto; }
+figure { flex-direction:column; }
+</style>
+
 D'une manière générale, tous les instruments de musique se désaccordent. Cela 
 est vrai pour la guitare, [mais aussi pour le piano, la harpe ou le 
 violon][autres-instruments]. Chaque corde d'une guitare est en effet soumise à 
