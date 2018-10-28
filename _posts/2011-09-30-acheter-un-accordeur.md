@@ -49,7 +49,7 @@ pédale d'effet directement, même si vous débutez ; car si vous comptez jouer
 dans un groupe un jour ou l'autre, vous allez de toute façon finir par devoir 
 en acheter un. Ces accordeurs présentent de plus l'avantage qu'une fois 
 installés, ils s'activent au pied et vous permettent de vous accorder sans 
-devoir lâcher votre manche.
+éloigner vos mains du manche.
 
 ## Korg Pitchblack
 
@@ -57,10 +57,10 @@ Le modèle que je conseille personnellement est le *Korg Pitchblack*. Je l'ai en
 effet utilisé pour toutes mes répétitions et pour une vingtaine de concerts il 
 y a quelques années et il m'a toujours été fidèle. Il a l'avantage d'être :
 
-- extrêmement rapide, plus que ses concurrents
-- construit très solidement
+- extrêmement rapide, plus que ses concurrents,
+- construit très solidement,
 - très lisible grâce à son grand écran, la nuit et en cas de forte luminosité 
-(sur scène par exemple)
+(sur scène par exemple),
 - *true bypass* : lorsqu'il est éteint, le son de votre guitare ira directement 
 à votre ampli comme si l'accordeur n'existait pas. Cette qualité est très 
 recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur 
