@@ -40,7 +40,7 @@ débutants car elle est meilleur marché, mais elle a deux désavantages :
 environnant et sera moins efficace que si vous branchez votre guitare 
 directement dans l'accordeur. Cette méthode peut toutefois fonctionner si vous 
 jouez seul, mais si vous jouez en même temps qu'un enregistrement ou avec un 
-autre guitariste, alors l'accordeur ne captera pas très bien votre guitare.
+autre guitariste, alors l'accordeur captera difficilement votre guitare.
 - si vous décidez de brancher votre guitare dans l'accordeur pour résoudre le 
 problème du bruit environnant, vous devrez la débrancher de votre ampli à 
 chaque fois que vous voudrez vous accorder. Cette solution vous fera perdre du 
