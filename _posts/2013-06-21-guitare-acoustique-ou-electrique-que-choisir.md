@@ -1,7 +1,7 @@
 ---
 title: "Guitare acoustique ou électrique : que choisir ?"
 excerpt: >
-  Découvrez quel instrument choisir pour bien débuter et quelles sont les
+  Découvrez quel instrument choisir pour bien débuter, et quelles sont les
   différences entre les guitares classiques, folk et électriques.
 header:
   teaser: /img/differentes-guitares_300.jpg
@@ -20,7 +20,7 @@ la suite ?
 Ce choix est crucial car il détermine la motivation que vous aurez à prendre 
 votre instrument durant les premiers mois de votre apprentissage. Cette période 
 pouvant parfois être difficile, il est important d'être motivé par son 
-instrument pour ne pas arrêter par dégoût.
+instrument pour ne pas arrêter en cours de route.
 
 Il existe beaucoup de types de guitares (certaines sont même hybrides), mais, 
 pour simplifier, on peut distinguer deux catégories :
