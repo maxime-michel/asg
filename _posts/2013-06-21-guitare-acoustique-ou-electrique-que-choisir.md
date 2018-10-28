@@ -17,10 +17,10 @@ guitare, les deux suivantes sont très courantes :
 - devrais-je commencer sur une acoustique si je veux jouer de l'électrique par 
 la suite ?
 
-Ce choix est crucial car il détermine la motivation que vous aurez à prendre 
-votre instrument durant les premiers mois de votre apprentissage. Cette période 
-pouvant parfois être difficile, il est important d'être motivé par son 
-instrument pour ne pas arrêter en cours de route.
+Ce choix est crucial car il détermine la motivation que vous aurez à revenir 
+vers votre instrument durant les premiers mois de votre apprentissage. Cette 
+période pouvant parfois être difficile, il est important de rester motivé par 
+son instrument pour ne pas arrêter en cours de route.
 
 Il existe beaucoup de types de guitares (certaines sont même hybrides), mais, 
 pour simplifier, on peut distinguer deux catégories :
@@ -69,22 +69,20 @@ extrait.
 
 La guitare électrique a pour sa part un corps plein et une électronique qui 
 consiste en plusieurs "micros" situés sous les cordes afin de capter le son, 
-ainsi que des potards de volume et de tonalité. Jouée seul, elle a donc un 
-signal faible. Un guitariste peut s'entendre jouer dans une pièce calme, mais 
-ce son n'est pas vraiment celui que l'on recherche. Le signal sera de 
-préférence amplifié, l'amplificateur jouant une grande part dans la couleur du 
-son.
+ainsi que des potards de volume et de tonalité. Jouée seul, elle a un signal 
+faible. Un guitariste peut s'entendre jouer dans une pièce calme, mais ce son 
+n'est pas vraiment celui que l'on recherche. Le signal sera de préférence 
+amplifié, l'amplificateur jouant une grande part dans la couleur du son.
 
 On peut de plus ajouter des effets (réverb, distortion, chorus, etc.), ce qui 
 permet une grande polyvalence. On entend de la guitare électrique dans le rock, 
 la pop, le funk, le métal mais aussi dans le jazz, par exemple.
 
 La guitare électrique a l'avantage pour les débutants d'avoir des cordes et un 
-manche plus fins. Elle fait donc moins mal aux doigts les premiers temps. Cela 
-dit, bien que les guitares électriques soient moins difficiles à jouer, il faut 
-être conscient qu'il y a sur le corps de la guitare et surtout sur les amplis 
-plusieurs boutons qui servent à régler le son et qui peuvent être très 
-mystérieux, au début.
+manche plus fins. Elle fait donc moins mal aux doigts dans les premiers temps. 
+Cela dit, bien que les guitares électriques soient moins difficiles à jouer, il 
+faut être conscient que les différents réglages possibles sur l'instrument et 
+l'ampli peuvent être déconcertants, au début.
 
 {% include figure alt="Une guitare électrique" caption="Une guitare électrique"
 image_path="/img/guitare-electrique.jpg" %}
@@ -96,6 +94,8 @@ Extrait de guitare électrique :
 ## Conclusion
 
 En définitive, il faut surtout vous demander de quel style vous allez jouer, 
-car cet élément est crucial pour la motivation. Si vous avez un budget limité, 
-une guitare acoustique est souvent plus abordable étant donné qu'il n'y a pas 
-d'amplificateur ni de câble à acheter en plus. Bonne chance !
+car cet élément est crucial pour la motivation. Cette motivation vous sera 
+utile lorsqu'il faudra affronter les premières difficultés ou doutes. Si vous 
+avez un budget limité, une guitare acoustique est souvent plus abordable étant 
+donné qu'il n'y a pas d'amplificateur ni de câble à acheter en plus. Bonne 
+chance !
