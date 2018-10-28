@@ -17,10 +17,10 @@ guitare, les deux suivantes sont très courantes :
 - est-il vrai qu'il vaut mieux commencer sur une acoustique même si c'est pour 
 jouer de l'électrique par la suite ?
 
-Ce choix est crucial car il détermine la motivation que vous aurez à revenir 
-vers votre instrument durant les premiers mois de votre apprentissage. Cette 
-période pouvant parfois être difficile, il est important de rester motivé par 
-son instrument pour ne pas arrêter en cours de route.
+Ce choix est crucial car il détermine la motivation que vous aurez à pratiquer 
+votre instrument durant les premiers mois de votre apprentissage. Cette période 
+pouvant parfois être difficile, il est important de rester motivé par son 
+instrument pour ne pas arrêter en cours de route.
 
 Il existe beaucoup de types de guitares (certaines sont même hybrides), mais, 
 pour simplifier, on peut distinguer deux catégories :
