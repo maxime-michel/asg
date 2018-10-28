@@ -14,8 +14,8 @@ Parmi les questions que les débutants posent lorsqu'ils veulent apprendre la
 guitare, les deux suivantes sont très courantes :
 
 - avec quel type de guitare faut-il débuter ?
-- devrais-je commencer sur une acoustique si je veux jouer de l'électrique par 
-la suite ?
+- est-il vrai qu'il vaut mieux commencer sur une acoustique même si c'est pour 
+jouer de l'électrique par la suite ?
 
 Ce choix est crucial car il détermine la motivation que vous aurez à revenir 
 vers votre instrument durant les premiers mois de votre apprentissage. Cette 
