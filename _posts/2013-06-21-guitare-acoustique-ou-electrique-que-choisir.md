@@ -19,8 +19,8 @@ jouer de l'électrique par la suite ?
 
 Ce choix est crucial car il détermine la motivation que vous aurez à pratiquer 
 votre instrument durant les premiers mois de votre apprentissage. Cette période 
-pouvant parfois être difficile, il est important de rester motivé par son 
-instrument pour ne pas arrêter en cours de route.
+pouvant parfois être difficile, il est important de rester motivé pour ne pas 
+arrêter en cours de route.
 
 Il existe beaucoup de types de guitares (certaines sont même hybrides), mais, 
 pour simplifier, on peut distinguer deux catégories :
@@ -28,9 +28,9 @@ pour simplifier, on peut distinguer deux catégories :
 - les acoustiques,
 - et les électriques.
 
-La différence principale est que la guitare acoustique possède une caisse de 
-résonance qui amplifie le son produit par les cordes, là où la guitare 
-électrique doit être accompagnée d'un amplificateur électrique séparé.
+La différence principale est que les guitares acoustiques possèdent une caisse 
+de résonance qui amplifie le son produit par les cordes, là où les guitares 
+électriques doivent être accompagnées d'un amplificateur électrique séparé.
 
 ## Guitares acoustiques
 
@@ -43,7 +43,7 @@ guitares :
 Les guitares folk ont de manière générale un corps plus volumineux et de 
 couleur plus claire, mais surtout : elles ont des cordes en acier et un son 
 "métallique" ; là où les guitares classiques ont trois cordes en acier (les 
-graves) mais aussi trois en nylon, ce qui leur donne un son plus doux. 
+graves) mais aussi trois en nylon, ce qui leur donne un son moins tranchant. 
 S'agissant des styles de musique qui se jouent avec ces deux guitares, on peut 
 mentionner le classique et le jazz pour les guitares classiques, et le rock, la 
 pop et le blues pour la guitare folk.
@@ -67,22 +67,22 @@ extrait.
 
 ## Guitares électriques
 
-La guitare électrique a pour sa part un corps plein et une électronique qui 
-consiste en plusieurs "micros" situés sous les cordes afin de capter le son, 
-ainsi que des potards de volume et de tonalité. Jouée seul, elle a un signal 
-faible. Un guitariste peut s'entendre jouer dans une pièce calme, mais ce son 
-n'est pas vraiment celui que l'on recherche. Le signal sera de préférence 
-amplifié, l'amplificateur jouant une grande part dans la couleur du son.
+les guitares électriques ont pour leur part un corps plein et une électronique 
+qui consiste en plusieurs "micros" situés sous les cordes afin de capter le 
+son, ainsi que des potards de volume et de tonalité. Jouées seuls, elles ont un 
+signal faible. Un guitariste peut s'entendre jouer dans une pièce calme, mais 
+ce son n'est pas vraiment celui que l'on recherche. Le signal sera de 
+préférence amplifié, l'amplificateur jouant une grande part dans la couleur du 
+son.
 
 On peut de plus ajouter des effets (réverb, distortion, chorus, etc.), ce qui 
 permet une grande polyvalence. On entend de la guitare électrique partout : 
 dans le rock, la pop, le funk, le métal, mais aussi dans le jazz, par exemple.
 
-La guitare électrique a l'avantage pour les débutants d'avoir des cordes et un 
-manche plus fins. Elle fait donc moins mal aux doigts dans les premiers temps. 
-Cela dit, bien que les guitares électriques soient moins difficiles à jouer, il 
-faut être conscient que les différents réglages possibles sur l'instrument et 
-l'ampli peuvent être déconcertants, au début.
+La guitare électrique présente l'avantage pour les débutants d'avoir des cordes 
+et un manche plus fins. Elle fait donc moins mal aux doigts dans les premiers 
+temps. Malgré cela, il faut être conscient que les différents réglages 
+possibles sur l'instrument et l'ampli peuvent être déconcertants, au début.
 
 {% include figure alt="Une guitare électrique" caption="Une guitare électrique"
 image_path="/img/guitare-electrique.jpg" %}
