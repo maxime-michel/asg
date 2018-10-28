@@ -24,7 +24,7 @@ terme de précision et de solidité. Ils ont l'avantage d'être :
 {% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
 caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
 
-### Démonstration
+### Vidéo officielle de démonstration (anglais)
 
 {% include video id="Of4CRajvq0E" provider="youtube" %}
 
@@ -70,6 +70,6 @@ son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 image_path="/img/accordeur-korg-pitchblack.png" caption="[Korg 
 Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
 
-## Démonstration
+### Vidéo officielle de démonstration (anglais)
 
 {% include video id="hSQxa232Bjg" provider="youtube" %}
