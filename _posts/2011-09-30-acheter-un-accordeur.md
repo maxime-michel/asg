@@ -13,8 +13,9 @@ redirect_from:
   - /guitares-electriques/
 ---
 
-Pour les guitares acoustiques, les accordeurs [Korg GA1][ga1] sont une 
-référence en terme de précision et de solidité. Ils ont l'avantage d'être :
+Pour les guitares acoustiques, les accordeurs [Korg 
+GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/) sont une référence en 
+terme de précision et de solidité. Ils ont l'avantage d'être :
 
 - portables, ils se glissent facilement dans une housse,
 - utilisables sans câble avec les guitares acoustiques,
@@ -22,7 +23,7 @@ référence en terme de précision et de solidité. Ils ont l'avantage d'être 
 - très bon marché.
 
 {% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
-caption="[Korg GA1][ga1]" %}
+caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
 
 ### Vidéo officielle de démonstration (anglais)
 
@@ -54,9 +55,9 @@ installés, ils s'activent au pied et vous permettent de vous accorder sans
 ## Korg Pitchblack
 
 Le modèle que je conseille personnellement est le [Korg 
-Pitchblack][pitchblack]. Je l'ai en effet utilisé pour toutes mes répétitions 
-et pour une vingtaine de concerts il y a quelques années et il m'a toujours été 
-fidèle. Il a l'avantage d'être :
+Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/). Je l'ai 
+en effet utilisé pour toutes mes répétitions et pour une vingtaine de concerts 
+il y a quelques années et il m'a toujours été fidèle. Il a l'avantage d'être :
 
 - extrêmement rapide, plus que ses concurrents,
 - construit très solidement,
@@ -69,11 +70,8 @@ son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 
 {% include figure alt="Korg Pitchblack" 
 image_path="/img/accordeur-korg-pitchblack.png" caption="[Korg 
-Pitchblack][pitchblack]" %}
+Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
 
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="hSQxa232Bjg" provider="youtube" %}
-
-[ga1]:https://www.secretsdemusiciens.com/liens/korg-ga1/
-[pitchblack]:https://www.secretsdemusiciens.com/liens/pitchblack-mini/
