@@ -75,8 +75,8 @@ n'est pas vraiment celui que l'on recherche. Le signal sera de préférence
 amplifié, l'amplificateur jouant une grande part dans la couleur du son.
 
 On peut de plus ajouter des effets (réverb, distortion, chorus, etc.), ce qui 
-permet une grande polyvalence. On entend de la guitare électrique dans le rock, 
-la pop, le funk, le métal mais aussi dans le jazz, par exemple.
+permet une grande polyvalence. On entend de la guitare électrique partout : 
+dans le rock, la pop, le funk, le métal, mais aussi dans le jazz, par exemple.
 
 La guitare électrique a l'avantage pour les débutants d'avoir des cordes et un 
 manche plus fins. Elle fait donc moins mal aux doigts dans les premiers temps. 
@@ -94,8 +94,7 @@ Extrait de guitare électrique :
 ## Conclusion
 
 En définitive, il faut surtout vous demander de quel style vous allez jouer, 
-car cet élément est crucial pour la motivation. Cette motivation vous sera 
-utile lorsqu'il faudra affronter les premières difficultés ou doutes. Si vous 
-avez un budget limité, une guitare acoustique est souvent plus abordable étant 
-donné qu'il n'y a pas d'amplificateur ni de câble à acheter en plus. Bonne 
-chance !
+car cet élément est crucial pour la motivation, en particulier lorsqu'il faudra 
+affronter les premières difficultés ou doutes. Si vous avez un budget limité, 
+une guitare acoustique est souvent plus abordable étant donné qu'il n'y a pas 
+d'amplificateur ni de câble à acheter en plus. Bonne chance !
