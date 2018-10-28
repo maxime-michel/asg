@@ -101,7 +101,7 @@ standard) qui facilitent le doigté de certains accords. En l'occurrence, c'est
 l'accord Ré sus4 que l'on obtient très facilement : puisqu'il suffit de jouer 
 les cordes à vide. Notons au passage que l'on pourrait jouer très facilement 
 n'importe quel autre accord sus4 en barrant toutes les cordes à la case 
-adéquates : Mi sus4 à la case 2 (222222), Fa sus4 à la case 3 (333333), etc.
+adéquate : Mi sus4 à la case 2 (`222222`), Fa sus4 à la case 3 (`333333`), etc.
 
 Un accord est dit « sus4 » quand il possède une quarte et une quinte, mais pas 
 de tierce. Dans le cas de Ré sus4, les notes concernées sont : Ré (tonique), 
