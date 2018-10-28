@@ -13,8 +13,8 @@ redirect_from:
   - /guitares-electriques/
 ---
 
-Pour les guitares acoustiques, les accordeurs Korg GA1 sont une référence en 
-terme de précision et de solidité. Ils ont l'avantage d'être :
+Pour les guitares acoustiques, les accordeurs [Korg GA1][ga1] sont une 
+référence en terme de précision et de solidité. Ils ont l'avantage d'être :
 
 - portables, ils se glissent facilement dans une housse,
 - utilisables sans câble avec les guitares acoustiques,
@@ -22,7 +22,7 @@ terme de précision et de solidité. Ils ont l'avantage d'être :
 - très bon marché.
 
 {% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
-caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
+caption="[Korg GA1][ga1]" %}
 
 ### Vidéo officielle de démonstration (anglais)
 
@@ -37,8 +37,8 @@ débutants car elle est meilleur marché, mais elle a deux désavantages :
 - si vous mettez l'accordeur près de votre ampli, il captera le bruit 
 environnant et sera moins efficace que si vous branchez votre guitare 
 directement dans l'accordeur. Cette méthode peut toutefois fonctionner si vous 
-jouez seul, mais si vous jouez en même temps qu'un CD ou avec un ami 
-guitariste, alors l'accordeur ne captera plus très bien votre guitare.
+jouez seul, mais si vous jouez en même temps qu'un enregistrement ou avec un 
+ami guitariste, alors l'accordeur ne captera plus très bien votre guitare.
 - si vous décidez de brancher votre guitare dans l'accordeur pour résoudre le 
 problème du bruit environnant, vous devrez la débrancher de votre ampli à 
 chaque fois que vous désirez vous accorder. Cette solution vous fera perdre du 
@@ -53,13 +53,14 @@ installés, ils s'activent au pied et vous permettent de vous accorder sans
 
 ## Korg Pitchblack
 
-Le modèle que je conseille personnellement est le *Korg Pitchblack*. Je l'ai en 
-effet utilisé pour toutes mes répétitions et pour une vingtaine de concerts il 
-y a quelques années et il m'a toujours été fidèle. Il a l'avantage d'être :
+Le modèle que je conseille personnellement est le [Korg 
+Pitchblack][pitchblack]. Je l'ai en effet utilisé pour toutes mes répétitions 
+et pour une vingtaine de concerts il y a quelques années et il m'a toujours été 
+fidèle. Il a l'avantage d'être :
 
 - extrêmement rapide, plus que ses concurrents,
 - construit très solidement,
-- très lisible grâce à son grand écran, la nuit et en cas de forte luminosité 
+- très lisible grâce à son grand écran, la nuit ou en cas de forte luminosité 
 (sur scène par exemple),
 - *true bypass* : lorsqu'il est éteint, le son de votre guitare ira directement 
 à votre ampli comme si l'accordeur n'existait pas. Cette qualité est très 
@@ -68,8 +69,11 @@ son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 
 {% include figure alt="Korg Pitchblack" 
 image_path="/img/accordeur-korg-pitchblack.png" caption="[Korg 
-Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
+Pitchblack][pitchblack]" %}
 
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="hSQxa232Bjg" provider="youtube" %}
+
+[ga1]:https://www.secretsdemusiciens.com/liens/korg-ga1/
+[pitchblack]:https://www.secretsdemusiciens.com/liens/pitchblack-mini/
