@@ -16,10 +16,10 @@ redirect_from:
 Pour les guitares acoustiques, les accordeurs Korg GA1 sont une référence en 
 terme de précision et de solidité. Ils ont l'avantage d'être :
 
-- portables, ils se glissent facilement dans une housse
-- utilisables sans câble avec les guitares acoustiques
-- avec câble avec les guitares électriques ou électro-acoustiques
-- très bon marché
+- portables, ils se glissent facilement dans une housse,
+- utilisables sans câble avec les guitares acoustiques,
+- mais aussi avec câble pour les guitares électriques ou électro-acoustiques,
+- très bon marché.
 
 {% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
 caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
