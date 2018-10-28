@@ -33,8 +33,8 @@ caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
 ## Guitares électriques
 
 Pour les guitares électriques, le micro d'un accordeur pour guitares 
-acoustiques peut aussi faire l'affaire. Cette option est préférée par les 
-débutants car elle est meilleur marché, mais elle a deux désavantages :
+acoustiques peut faire l'affaire. Cette option est préférée par les débutants 
+car elle est meilleur marché, mais elle a deux désavantages :
 
 - si vous mettez l'accordeur près de votre ampli, il captera le bruit 
 environnant et sera moins efficace que si vous branchez votre guitare 
