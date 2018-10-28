@@ -32,7 +32,7 @@ caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
 ## Guitares électriques
 
 Pour les guitares électriques, vous pouvez tout à fait utiliser un accordeur 
-pour guitare acoustique pour vous accorder. Cette option est préférée par les 
+pour guitares acoustiques pour vous accorder. Cette option est préférée par les 
 débutants car elle est meilleur marché, mais elle a deux désavantages :
 
 - si vous mettez l'accordeur près de votre ampli, il captera le bruit 
