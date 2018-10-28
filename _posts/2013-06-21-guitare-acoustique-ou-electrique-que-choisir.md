@@ -17,10 +17,11 @@ guitare, les deux suivantes sont très courantes :
 - est-il vrai qu'il vaut mieux commencer sur une acoustique même si c'est pour 
 jouer de l'électrique par la suite ?
 
-Ce choix est crucial car il détermine la motivation que vous aurez à pratiquer 
-votre instrument durant les premiers mois de votre apprentissage. Cette période 
-pouvant parfois être difficile, il est important de rester motivé pour ne pas 
-arrêter en cours de route.
+Choisir la bonne guitare est crucial car cela détermine la motivation que vous 
+aurez à pratiquer votre instrument durant les premiers mois de votre 
+apprentissage. Cette période pouvant parfois être difficile, il est important 
+de rester motivé pour ne pas arrêter en cours de route, ce qui peut arriver 
+très vite.
 
 Il existe beaucoup de types de guitares (certaines sont même hybrides), mais, 
 pour simplifier, on peut distinguer deux catégories :
@@ -67,11 +68,11 @@ extrait.
 
 ## Guitares électriques
 
-les guitares électriques ont pour leur part un corps plein et une électronique 
+Les guitares électriques ont pour leur part un corps plein et une électronique 
 qui consiste en plusieurs "micros" situés sous les cordes afin de capter le 
-son, ainsi que des potards de volume et de tonalité. Jouées seuls, elles ont un 
-signal faible. Un guitariste peut s'entendre jouer dans une pièce calme, mais 
-ce son n'est pas vraiment celui que l'on recherche. Le signal sera de 
+son, ainsi que des potards de volume et de tonalité. Jouées seules, elles ont 
+un signal faible. Un guitariste peut s'entendre jouer dans une pièce calme, 
+mais ce son n'est pas vraiment celui que l'on recherche. Le signal sera de 
 préférence amplifié, l'amplificateur jouant une grande part dans la couleur du 
 son.
 
