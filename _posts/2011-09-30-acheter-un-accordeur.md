@@ -1,8 +1,8 @@
 ---
 title: "Quel accordeur acheter ?"
 excerpt: >
-  Présentation et essai des accordeurs Korg GA30 et 40, ainsi que le Korg
-  Pitchblack pour guitares électriques.
+  Présentation et essai de l'accordeur Korg GA1, ainsi que du Korg Pitchblack 
+  pour guitares électriques.
 header:
   teaser: /img/mecaniques-guitare_300.jpg
   overlay_color: "#000"
@@ -26,7 +26,7 @@ caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
 
 ### Démonstration
 
-{% include video id="YvGugizVZoQ" provider="youtube" %}
+{% include video id="Of4CRajvq0E" provider="youtube" %}
 
 ## Guitares électriques
 
