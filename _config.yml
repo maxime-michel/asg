@@ -93,6 +93,9 @@ footer:
     - label: "Secrets de Musiciens"
       icon: "fas fa-fw fa-link"
       url: "https://www.secretsdemusiciens.com/"
+    - label: "Politique de confidentialité"
+      icon: "fas fa-fw fa-link"
+      url: "/politique-de-confidentialite/"
 
 # Mailchimp
 mailchimp:
