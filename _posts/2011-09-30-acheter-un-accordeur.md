@@ -77,7 +77,7 @@ recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur
 son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
 
 {% include figure alt="Korg Pitchblack" 
-image_path="/img/accordeur-korg-pitchblack.png" caption="[Korg 
+image_path="/img/accordeur-korg-pitchblack.jpg" caption="[Korg 
 Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
 
 ### Vidéo officielle de démonstration (anglais)
