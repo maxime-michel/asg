@@ -13,6 +13,12 @@ redirect_from:
   - /guitares-electriques/
 ---
 
+<style>
+/* override theme's 100% wide images default on this page */
+figure img { width: auto; }
+figure { flex-direction:column; }
+</style>
+
 Pour les guitares acoustiques, les accordeurs [Korg 
 GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/) sont une référence en 
 terme de précision et de solidité. Ils ont l'avantage d'être :
