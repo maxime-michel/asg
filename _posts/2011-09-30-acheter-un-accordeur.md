@@ -16,7 +16,7 @@ redirect_from:
 <style>
 /* override theme's 100% wide images default on this page */
 figure img { width: auto; }
-figure { flex-direction:column; }
+figure { flex-direction: column; }
 </style>
 
 Pour les guitares acoustiques, les accordeurs [Korg 
