@@ -12,7 +12,19 @@ share: true
 slug: "metronome"
 ---
 
-<iframe style="height: 500px; width: 100%; border: 0;" src="https://metronome.accordersaguitare.com/"></iframe>
+Ce métronome en ligne fonctionne comme un métronome standard. Il donne à la 
+fois un tempo fiable, mais permet aussi, grâce au bouton **« Tap »**, 
+d'identifier le tempo d'un morceau que l'on désire travailler.
+
+Le métronome est, comme l'accordeur, un outil utile du musicien débutant au 
+professionnel. Ci-dessous se trouvent donc plusieurs idées et scénarios 
+d'utilisation possibles.
+
+Pour peaufiner le son entendu sur les temps forts et faibles, cliquez sur la 
+roue crénelée. **« Off beat pitch »** règle les temps faibles, **« Accent pitch 
+»** les temps forts.
+
+<iframe style="height: 400px; width: 100%; border: 0;" src="https://metronome.accordersaguitare.com/"></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- asg-metronome -->
