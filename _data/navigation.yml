@@ -1,3 +1,5 @@
 main:
+  - title: "Métronome"
+    url: /metronome/
   - title: "Autres articles"
     url: /articles/
