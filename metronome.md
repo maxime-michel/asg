@@ -15,7 +15,7 @@ slug: "metronome"
 <iframe style="height: 500px; width: 100%; border: 0;" src="https://metronome.accordersaguitare.com/"></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ASG #2 -->
+<!-- asg-metronome -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-2493011358476103"
