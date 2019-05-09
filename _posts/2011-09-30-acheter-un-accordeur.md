@@ -1,8 +1,8 @@
 ---
 title: "Quel accordeur acheter ?"
 excerpt: >
-  Présentation et essai de l'accordeur Korg GA1, ainsi que du Korg Pitchblack 
-  pour guitares électriques.
+  Présentation et essai des accordeur Korg GA1, PC2, ainsi que Pitchblack pour 
+  guitares électriques.
 header:
   teaser: /img/mecaniques-guitare_300.jpg
   overlay_color: "#000"
@@ -16,53 +16,75 @@ figure img { width: auto; }
 figure { flex-direction: column; }
 </style>
 
-Pour les guitares acoustiques, les accordeurs [Korg 
-GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/) sont une référence en 
-terme de précision et de solidité. Ils ont l'avantage d'être :
+Il existe beaucoup trop d'accordeurs sur le marché. Rien que sur cette page, il 
+est question de trois modèles de la marque Korg, qui en propose des dizaines à 
+la vente. Evidemment, les autres marques ne sont pas en reste.
 
-- portables, ils se glissent facilement dans une housse,
-- équipés d'un micro pour capter les guitares acoustiques,
-- mais aussi d'une entrée câble pour les guitares électriques ou 
-électro-acoustiques,
-- très bon marché.
+Cela dit, pas de panique. Cet article est là pour vous guider et vous proposera 
+des modèles d'accordeurs que je connais, et dont je sais qu'ils sont adaptés 
+aux différentes situations (débutant, guitare électrique, acoustique) dans 
+lesquelles les guitaristes se trouvent, situations que je connais aussi.
 
-{% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
-caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
+## Le choix sûr pour 90% des cas
+
+![Korg PC2](/img/accordeur-korg-pc2.jpg){: .align-right}
+
+Si vous :
+
+- débutez,
+- ne voulez pas investir beaucoup,
+- cherchez une solution simple et efficace,
+- voulez pouvoir vous accorder dans des environnements calmes commes bruyants,
+- avez une guitare acoustique mais prévoyez peut-être d'avoir aussi une guitare 
+électrique (ou vice versa),
+
+Alors [l'accordeur à pince Korg PC-2][korg-pc2] est un excellent choix et un 
+outil nécessaire dans la trousse à outils de chaque guitariste.
+
+### Vidéo officielle de démonstration (anglais)
+
+{% include video id="JtNq7c1PQ-s" provider="youtube" %}
+
+## Pour avoir plus d'options
+
+![Korg GA1](/img/accordeur-korg-ga1.jpg){: .align-right}
+
+Si vous :
+
+- voulez une précision accrue,
+- voulez pouvoir entendre les notes,
+- avez besoin de pouvoir vous accorder via un câble (guitare électrique ou 
+électro-acoustique) *et* via micro,
+- avez aussi une basse,
+
+Alors les accordeurs [Korg GA1][korg-ga1] sont une référence de la catégorie 
+"accordeurs avancés". Sans être aussi légers que les accordeurs à pince, ils 
+restent portables (se glissent facilement dans une housse), et très bon marché.
 
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="Of4CRajvq0E" provider="youtube" %}
 
-## Guitares électriques
+## Pour les guitares électriques
 
-Pour les guitares électriques, le micro d'un accordeur pour guitares 
-acoustiques peut faire l'affaire. Cette option est préférée par les débutants 
-car elle est meilleur marché, mais elle a deux désavantages :
+![Korg Pitchblack](/img/accordeur-korg-pitchblack.jpg){: .align-right}
 
-- si vous mettez l'accordeur près de votre ampli, il captera le bruit 
-environnant et sera moins efficace que si vous branchez votre guitare 
-directement dans l'accordeur. Cette méthode peut toutefois fonctionner si vous 
-jouez seul, mais si vous jouez en même temps qu'un enregistrement ou avec un 
-autre guitariste, alors l'accordeur captera difficilement votre guitare.
-- si vous décidez de brancher votre guitare dans l'accordeur pour résoudre le 
-problème du bruit environnant, vous devrez la débrancher de votre ampli à 
-chaque fois que vous voudrez vous accorder. Cette solution vous fera perdre du 
-temps.
+Si vous :
 
-Par conséquent, je ne peux que vous conseiller d'acheter un accordeur au format 
-"pédale d'effet" directement, même si vous débutez ; car si vous comptez jouer 
-dans un groupe un jour ou l'autre, vous allez de toute façon finir par devoir 
-en acheter un. Ces accordeurs présentent de plus l'avantage qu'une fois 
-installés, ils s'activent au pied et vous permettent de vous accorder sans 
-éloigner vos mains du manche.
+- comptez jouer sur scène,
+- comptez jouer de la guitare électrique dans un environnement bruyant,
+- comptez jouer debout et bouger, ce qui serait gênant avec un accordeur à 
+pince,
+- voulez que l'accordeur se gère au pied comme vos autres effets,
+- n'avez pas envie de laisser un accordeur type [Korg GA1][korg-ga1] enclenché 
+en permanence sur votre ampli, ce qui viderait ses piles rapidement,
+- n'avez pas envie de débrancher votre guitare de votre ampli pour la brancher 
+dans l'accordeur (perte de temps),
 
-## Korg Pitchblack
-
-Le modèle que je conseille personnellement est le [Korg 
-Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/). Je l'ai 
-en effet utilisé pour toutes mes répétitions et pour une vingtaine de concerts 
-il y a quelques années, et il m'a donné entière satisfaction. Il a l'avantage 
-d'être :
+Alors le modèle que je conseille personnellement est le [Korg 
+Pitchblack][pitchblack-mini]. Je l'ai en effet utilisé pour toutes mes 
+répétitions et pour une vingtaine de concerts il y a quelques années, et il m'a 
+donné entière satisfaction. Il a l'avantage d'être :
 
 - extrêmement rapide, plus que ses concurrents,
 - construit très solidement,
@@ -71,12 +93,12 @@ d'être :
 - *true bypass* : lorsqu'il est éteint, le son de votre guitare ira directement 
 à votre ampli comme si l'accordeur n'existait pas. Cette qualité est très 
 recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur 
-son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales.
-
-{% include figure alt="Korg Pitchblack" 
-image_path="/img/accordeur-korg-pitchblack.jpg" caption="[Korg 
-Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
+son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales en série.
 
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="hSQxa232Bjg" provider="youtube" %}
+
+[korg-pc2]:https://www.secretsdemusiciens.com/liens/korg-pc2/
+[korg-ga1]:https://www.secretsdemusiciens.com/liens/korg-ga1/
+[pitchblack-mini]:https://www.secretsdemusiciens.com/liens/pitchblack-mini/
