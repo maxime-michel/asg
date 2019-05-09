@@ -8,8 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/livre-partition.jpg
-redirect_from:
-  - /2011/l-accordage-explique-aux-debutants/
 ---
 
 <style>

@@ -10,17 +10,6 @@ classes: wide
 author_profile: true
 share: true
 slug: "index"
-redirect_from:
-  - /2011/accordeurs-gratuits-en-ligne/
-  - /2012/accordeurs-gratuits-en-ligne/
-  - /2013/accordeurs-gratuits-en-ligne/
-  - /accordeurs-gratuits-en-ligne/
-  - /2011/accordeurs-pour-smartphones/
-  - /accordeur/
-  - /accordeur-flash/
-  - /accordeurs-pour-smartphones/
-  - /audio/
-  - /flash/
 ---
 
 Cet accordeur en ligne se sert du micro de votre ordinateur et fonctionne comme 

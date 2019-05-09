@@ -8,9 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/mecaniques-guitare.jpg
-redirect_from:
-  - /guitares-acoustiques/
-  - /guitares-electriques/
 ---
 
 <style>

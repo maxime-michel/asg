@@ -8,9 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/guitare-folk-veste-cuir.jpg
-redirect_from:
-  - /jimi-hendrix-mi-bemol/
-  - /led-zeppelin-kashmir-re-sus4-ouvert/
 ---
 
 Cet article détaille les accordages utilisés par [Jimi Hendrix][hendrix], 
