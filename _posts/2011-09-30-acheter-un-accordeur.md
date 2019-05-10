@@ -27,6 +27,8 @@ lesquelles les guitaristes se trouvent, situations que je connais aussi.
 
 ## Le choix sûr pour 90% des cas
 
+![Korg PC2](/img/accordeur-korg-pc2.jpg){: .align-right}
+
 Si vous :
 
 - débutez,
@@ -40,14 +42,13 @@ Si vous :
 Alors [l'accordeur à pince Korg PC-2][korg-pc2] est un excellent choix et un 
 outil nécessaire dans la trousse à outils de chaque guitariste.
 
-{% include figure alt="Korg PC-2" image_path="/img/accordeur-korg-pc2.jpg" 
-caption="[Korg PC2](https://www.secretsdemusiciens.com/liens/korg-pc2/)" %}
-
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="JtNq7c1PQ-s" provider="youtube" %}
 
 ## Pour avoir plus d'options
+
+![Korg GA1](/img/accordeur-korg-ga1.jpg){: .align-right}
 
 Si vous :
 
@@ -61,14 +62,13 @@ Alors les accordeurs [Korg GA1][korg-ga1] sont une référence de la catégorie
 "accordeurs avancés". Sans être aussi légers que les accordeurs à pince, ils 
 restent portables (se glissent facilement dans une housse), et très bon marché.
 
-{% include figure alt="Korg GA1" image_path="/img/accordeur-korg-ga1.jpg" 
-caption="[Korg GA1](https://www.secretsdemusiciens.com/liens/korg-ga1/)" %}
-
 ### Vidéo officielle de démonstration (anglais)
 
 {% include video id="Of4CRajvq0E" provider="youtube" %}
 
 ## Pour les guitares électriques
+
+![Korg Pitchblack](/img/accordeur-korg-pitchblack.jpg){: .align-right}
 
 Les accordeurs cités plus haut fonctionnent avec les guitares électriques. Cela 
 dit, souvent le guitariste électrique a plusieurs pédales d'effet qu'il fixe à 
@@ -100,10 +100,6 @@ donné entière satisfaction. Il a l'avantage d'être :
 à votre ampli comme si l'accordeur n'existait pas. Cette qualité est très 
 recherchée par les guitaristes qui utilisent des pédales d'effet afin que leur 
 son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales en série.
-
-{% include figure alt="Korg Pitchblack" 
-image_path="/img/accordeur-korg-pitchblack.jpg" caption="[Korg 
-Pitchblack](https://www.secretsdemusiciens.com/liens/pitchblack-mini/)" %}
 
 ### Vidéo officielle de démonstration (anglais)
 
