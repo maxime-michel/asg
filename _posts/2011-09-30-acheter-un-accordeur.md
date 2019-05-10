@@ -27,7 +27,7 @@ lesquelles les guitaristes se trouvent, situations que je connais aussi.
 
 ## Le choix sûr pour 90% des cas
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=sdm0b-21&marketplace=amazon&region=FR&placement=B07DZRSV54&asins=B07DZRSV54&linkId=1665b427db5e477a5a4988b4a81bb176&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>{: .align-right}
+![Korg PC2](/img/accordeur-korg-pc2.jpg){: .align-right}
 
 Si vous :
 
@@ -48,7 +48,7 @@ outil nécessaire dans la trousse à outils de chaque guitariste.
 
 ## Pour avoir plus d'options
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=sdm0b-21&marketplace=amazon&region=FR&placement=B002HPMTZU&asins=B002HPMTZU&linkId=07a949ad8d64129837b244b36c61cef8&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>{: .align-right}
+![Korg GA1](/img/accordeur-korg-ga1.jpg){: .align-right}
 
 Si vous :
 
@@ -68,7 +68,7 @@ restent portables (se glissent facilement dans une housse), et très bon marché
 
 ## Pour les guitares électriques
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=sdm0b-21&marketplace=amazon&region=FR&placement=B01CJKS7TE&asins=B01CJKS7TE&linkId=2bb5bfedbf1754df97db010ed5935a41&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff"></iframe>{: .align-right}
+![Korg Pitchblack](/img/accordeur-korg-pitchblack.jpg){: .align-right}
 
 Les accordeurs cités plus haut fonctionnent avec les guitares électriques. Cela 
 dit, souvent le guitariste électrique a plusieurs pédales d'effet qu'il fixe à 
