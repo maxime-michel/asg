@@ -16,11 +16,11 @@ figure img { width: auto; }
 figure { flex-direction: column; }
 </style>
 
-Il existe beaucoup d'accordeurs sur le marché. Rien que sur cette page, il est 
-question de trois modèles de la marque Korg, qui en propose des dizaines à la 
-vente. Evidemment, les autres marques ne sont pas en reste.
+Il existe beaucoup trop d'accordeurs sur le marché. Rien que sur cette page, il 
+est question de trois modèles de la marque Korg, qui en propose des dizaines à 
+la vente. Evidemment, les autres marques ne sont pas en reste.
 
-Pas de panique, cela dit. Je vais vous aider à y voir clair et vous proposer 
+Cela dit, pas de panique. Cet article est là pour vous guider et vous proposera 
 des modèles d'accordeurs que je connais, et dont je sais qu'ils sont adaptés 
 aux différentes situations (débutant, guitare électrique, acoustique) dans 
 lesquelles les guitaristes se trouvent, situations que je connais aussi.
@@ -34,10 +34,11 @@ Si vous :
 - débutez,
 - ne voulez pas investir beaucoup,
 - cherchez une solution simple et efficace,
-- n'avez pas de besoin particulier autre que vous accorder,
 - voulez pouvoir vous accorder dans des environnements calmes commes bruyants,
 - avez une guitare acoustique mais prévoyez peut-être d'avoir aussi une guitare 
-électrique (ou vice-versa),
+électrique (ou vice versa),
+
+<br style="clear: both;" />
 
 Alors [l'accordeur à pince Korg PC-2][korg-pc2] est un excellent choix et un 
 outil nécessaire dans la trousse à outils de chaque guitariste.
@@ -58,6 +59,8 @@ Si vous :
 électro-acoustique) *et* via micro,
 - avez aussi une basse,
 
+<br style="clear: both;" />
+
 Alors les accordeurs [Korg GA1][korg-ga1] sont une référence de la catégorie 
 "accordeurs avancés". Sans être aussi légers que les accordeurs à pince, ils 
 restent portables (se glissent facilement dans une housse), et très bon marché.
@@ -70,11 +73,6 @@ restent portables (se glissent facilement dans une housse), et très bon marché
 
 ![Korg Pitchblack](/img/accordeur-korg-pitchblack.jpg){: .align-right}
 
-Les accordeurs cités plus haut fonctionnent avec les guitares électriques. Cela 
-dit, souvent le guitariste électrique a plusieurs pédales d'effet qu'il fixe à 
-un socle (*pedalboard*) afin de pouvoir les déplacer sans refaire tous les 
-branchements.
-
 Si vous :
 
 - comptez jouer sur scène,
@@ -86,6 +84,13 @@ pince,
 en permanence sur votre ampli, ce qui viderait ses piles rapidement,
 - n'avez pas envie de débrancher votre guitare de votre ampli pour la brancher 
 à l'accordeur (perte de temps),
+
+<br style="clear: both;" />
+
+Les accordeurs cités plus haut fonctionnent avec les guitares électriques. Cela 
+dit, souvent le guitariste électrique a plusieurs pédales d'effet qu'il fixe à 
+un socle (*pedalboard*) afin de pouvoir les déplacer sans refaire tous les 
+branchements.
 
 Le modèle que je conseille personnellement est le [Korg 
 Pitchblack][pitchblack-mini]. Je l'ai en effet utilisé pour toutes mes 
