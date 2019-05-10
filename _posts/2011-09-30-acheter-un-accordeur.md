@@ -81,12 +81,7 @@ en permanence sur votre ampli, ce qui viderait ses piles rapidement,
 - n'avez pas envie de débrancher votre guitare de votre ampli pour la brancher 
 à l'accordeur (perte de temps),
 
-Les accordeurs cités plus haut fonctionnent avec les guitares électriques. Cela 
-dit, souvent le guitariste électrique a plusieurs pédales d'effet qu'il fixe à 
-un socle (*pedalboard*) afin de pouvoir les déplacer sans refaire tous les 
-branchements.
-
-Le modèle que je conseille personnellement est le [Korg 
+te modèle que je conseille personnellement est le [Korg 
 Pitchblack][pitchblack-mini]. Je l'ai en effet utilisé pour toutes mes 
 répétitions et pour une vingtaine de concerts il y a quelques années, et il m'a 
 donné entière satisfaction. Il a l'avantage d'être :
