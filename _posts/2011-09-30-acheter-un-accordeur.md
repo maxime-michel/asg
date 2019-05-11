@@ -79,9 +79,9 @@ pince,
 - n'avez pas envie de laisser un accordeur type [Korg GA1][korg-ga1] enclenché 
 en permanence sur votre ampli, ce qui viderait ses piles rapidement,
 - n'avez pas envie de débrancher votre guitare de votre ampli pour la brancher 
-à l'accordeur (perte de temps),
+dans l'accordeur (perte de temps),
 
-te modèle que je conseille personnellement est le [Korg 
+Alors le modèle que je conseille personnellement est le [Korg 
 Pitchblack][pitchblack-mini]. Je l'ai en effet utilisé pour toutes mes 
 répétitions et pour une vingtaine de concerts il y a quelques années, et il m'a 
 donné entière satisfaction. Il a l'avantage d'être :
