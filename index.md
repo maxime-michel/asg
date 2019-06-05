@@ -94,4 +94,4 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
 [tutoriel]:/tutoriel/
 [debutants]:/l-accordage-explique-aux-debutants/
 [acheter-un-accordeur]:/acheter-un-accordeur/
-[korg-pc2]:https://www.secretsdemusiciens.com/liens/korg-pc2/
+[korg-pc2]:http://bit.ly/korg-pc2

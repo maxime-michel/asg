@@ -129,5 +129,5 @@ frustrant pour le débutant au départ. Pour un accordage plus précis et plus
 rapide, je ne peux que vous recommander [d'acquérir un 
 accordeur](/acheter-un-accordeur/).
 
-[diapason]:https://www.secretsdemusiciens.com/liens/diapason/
+[diapason]:http://bit.ly/diapason-wittner
 [autres-instruments]:/accorder-d-autres-instruments/
