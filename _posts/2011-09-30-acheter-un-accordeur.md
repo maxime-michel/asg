@@ -99,6 +99,6 @@ son ne se dégrade pas même lorsqu'ils utilisent plusieurs pédales en série.
 
 {% include video id="hSQxa232Bjg" provider="youtube" %}
 
-[korg-pc2]:https://www.secretsdemusiciens.com/liens/korg-pc2/
-[korg-ga1]:https://www.secretsdemusiciens.com/liens/korg-ga1/
-[pitchblack-mini]:https://www.secretsdemusiciens.com/liens/pitchblack-mini/
+[korg-pc2]:http://bit.ly/korg-pc2
+[korg-ga1]:http://bit.ly/korg-ga1
+[pitchblack-mini]:http://bit.ly/pitchblack-mini
