@@ -26,7 +26,7 @@ comments:
   provider               : "staticman_v2"
 staticman:
   branch                 : "master"
-  endpoint               : "https://dev.staticman.net/v3/entry/github/"
+  endpoint               : "https://api.staticman.net/v3/entry/github/"
 reCaptcha:
   siteKey                : "6LeHU5EUAAAAAOwi0Vx2RQVd9bhz8_Gf5cEJb43A"
   secret                 : "lbPDTvnhPK3NHaTsTpnCvtbMh1ClU4hub09llfd6H103B0IMMoMU1MyEXiqleIxP/Q4qzvd7Lhb7eqfNePYqWlIiKeG2bxv4dzznvxI//dU0S1x2QkS+XmBE0aKSNHulBLhInhR1BxD8Zic8u1yAdTcwz9qkp+P3HyX4cq/Rfpg="
