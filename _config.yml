@@ -84,7 +84,7 @@ author:
       url: mailto:maxime@accordersaguitare.com
     - label: "Secrets de Musiciens"
       icon: "fas fa-fw fa-link"
-      url: "https://www.secretsdemusiciens.com/"
+      url: http://bit.ly/secrets-de-musiciens
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
       url: http://bit.ly/cours-skype
