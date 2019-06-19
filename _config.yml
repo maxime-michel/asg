@@ -84,10 +84,10 @@ author:
       url: mailto:maxime@accordersaguitare.com
     - label: "Secrets de Musiciens"
       icon: "fas fa-fw fa-link"
-      url: "https://www.secretsdemusiciens.com/"
+      url: http://bit.ly/secrets-de-musiciens
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
-      url: mailto:maxime@accordersaguitare.com
+      url: http://bit.ly/cours-skype
 
 # Site Footer
 footer:
@@ -103,7 +103,7 @@ footer:
       url: "/politique-de-confidentialite/"
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
-      url: mailto:maxime@accordersaguitare.com
+      url: http://bit.ly/cours-skype
 
 # Mailchimp
 mailchimp:
