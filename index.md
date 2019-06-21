@@ -85,12 +85,6 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
   </tr>
 </table>
 
-## {{ site.mailchimp.title }}
-
-{{ site.mailchimp.lead | markdownify }}
-
-{% include mailchimp.html %}
-
 [tutoriel]:/tutoriel/
 [debutants]:/l-accordage-explique-aux-debutants/
 [acheter-un-accordeur]:/acheter-un-accordeur/

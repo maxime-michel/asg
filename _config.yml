@@ -105,23 +105,6 @@ footer:
       icon: "fab fa-fw fa-skype"
       url: http://bit.ly/cours-skype
 
-# Mailchimp
-mailchimp:
-  title: "S'accorder comme un pro"
-  lead: "Vous jouez depuis plusieurs années et voulez connaître une méthode encore plus efficace de vous accorder ? Recevez gratuitement mon **guide PDF (5 pages)** sur les méthodes utilisées par les musiciens professionnels, en remplissant le formulaire ci-dessous :"
-  confirm: "Je m'inscris »"
-  list: accordersaguitare
-  dc: us15
-  u: 88f74bac90be8782706e16cfe
-  id: 1ae0e7aa7a
-  fields:
-    - type: "email"
-      merge: "EMAIL"
-      placeholder: "Votre adresse mail"
-    - type: "text"
-      merge: "NAME"
-      placeholder: "Votre prénom"
-
 
 # Reading Files
 include:
