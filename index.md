@@ -58,7 +58,7 @@ Voici aussi les notes justes d'une guitare acoustique accordée en Mi (accordage
 standard), qui vous permettront de vous accorder à l'oreille, ce qui est un 
 **excellent exercice pour l'oreille**.
 
-<table id="notes">
+<table>
   <tr>
     <td>Mi grave</td>
     <td>{% include audio.html file="accordeur/mi-grave" loop=true %}</td>
