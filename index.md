@@ -15,7 +15,8 @@ slug: "index"
 Cet accordeur en ligne se sert du micro de votre ordinateur et fonctionne comme 
 un accordeur électronique standard. Pour l'utiliser, il faut posséder un micro 
 et simplement cliquer sur la bannière pour démarrer, puis **« Autoriser »** 
-(voir [tutoriel][tutoriel]).
+(voir <a href="https://www.youtube.com/watch?v=A5nOllO84XA"
+target="_blank">tutoriel</a>).
 
 **Attention :** si vous désirez accorder une guitare électrique, il est 
 recommandé de l'amplifier pour que l'accordeur puisse bien capter la hauteur 
@@ -85,7 +86,6 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
   </tr>
 </table>
 
-[tutoriel]:/tutoriel/
 [debutants]:/l-accordage-explique-aux-debutants/
 [acheter-un-accordeur]:/acheter-un-accordeur/
 [korg-pc2]:http://bit.ly/korg-pc2
