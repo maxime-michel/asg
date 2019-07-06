@@ -31,7 +31,7 @@ corde la plus grosse à la plus petite : **E, A, D, G, B, E**.
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- asg-accordeur -->
 <ins class="adsbygoogle"
-     style="display:block; border:0"
+     style="display:block"
      data-ad-client="ca-pub-2493011358476103"
      data-ad-slot="6081268093"
      data-ad-format="auto"
