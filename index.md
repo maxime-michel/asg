@@ -26,7 +26,7 @@ Petit rappel de notre guide [« L'accordage expliqué aux
 débutants »][debutants], le nom des notes qui doivent s'afficher est, de la 
 corde la plus grosse à la plus petite : **E, A, D, G, B, E**.
 
-<iframe allow="microphone" style="height: 500px; width: 100%; border: 0;" src="https://accordeur.accordersaguitare.com/"></iframe>
+<iframe allow="microphone" style="height: 500px; width: 100%; border: 0;" src="https://accordeur.accordersaguitare.com/?lang=fr"></iframe>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- asg-accordeur -->
