@@ -28,17 +28,9 @@ corde la plus grosse à la plus petite : **E, A, D, G, B, E**.
 
 <iframe allow="microphone" style="height: 500px; width: 100%; border: 0;" src="https://accordeur.accordersaguitare.com/?lang=fr"></iframe>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- asg-accordeur -->
-<ins class="adsbygoogle"
-     style="display:block; border:0"
-     data-ad-client="ca-pub-2493011358476103"
-     data-ad-slot="6081268093"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<a href="http://bit.ly/32rYUBE" target="_blank">
+  ![Offre imusic school](/img/banniere-imusic-school.gif){: .align-center}
+</a>
 
 ## Acheter un accordeur pour gagner du temps
 
