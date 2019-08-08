@@ -1,7 +1,7 @@
 ---
 title: "Quel accordeur acheter ?"
 excerpt: >
-  Présentation et essai des accordeur Korg GA1, PC2, ainsi que Pitchblack pour 
+  Présentation et essai des accordeurs Korg GA1, PC2, ainsi que Pitchblack pour 
   guitares électriques.
 header:
   teaser: /img/mecaniques-guitare_300.jpg
