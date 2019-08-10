@@ -22,10 +22,10 @@ violon][autres-instruments]. Chaque corde d'une guitare est en effet soumise à
 une tension qui peut aller de 6 à 10 kg, et cette énergie tend à se dissiper 
 naturellement avec le temps, ce qui désaccorde la guitare.
 
-De plus, l'humidité et la chaleur influencent le bois et le font sécher ou 
-gonfler, ce qui participe aussi à dérégler petit à petit l'instrument. Par 
-conséquent, il n'est jamais superflu de contrôler l'accordage de sa guitare 
-avant de commencer à jouer.
+De plus, [l'humidité et la chaleur influencent le bois et le font sécher ou 
+gonfler][degats-instruments], ce qui participe aussi à dérégler petit à petit 
+l'instrument. Par conséquent, il n'est jamais superflu de contrôler l'accordage 
+de sa guitare avant de commencer à jouer.
 
 ## Le La 440 hz
 
@@ -131,3 +131,4 @@ accordeur](/acheter-un-accordeur/).
 
 [diapason]:http://bit.ly/diapason-wittner
 [autres-instruments]:/accorder-d-autres-instruments/
+[degats-instruments]:https://www.secretsdemusiciens.com/degats-materiels-instruments/
