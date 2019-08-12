@@ -54,12 +54,12 @@ Mi, cela veut dire que lorsqu'elle est jouée à vide (= sans que la main gauche
 n'appuie sur aucune case), la note qu'elle produit est un Mi. La liste des 
 cordes dans le même ordre que sur votre guitare est :
 
-- Mi aigu
-- Si
-- Sol
-- Ré
-- La
 - Mi grave
+- La
+- Ré
+- Sol
+- Si
+- Mi aigu
 
 Il est possible que vous soyez confronté à la notation anglaise lorsque vous 
 cherchez des tablatures sur Google par exemple. Il est important de savoir 
