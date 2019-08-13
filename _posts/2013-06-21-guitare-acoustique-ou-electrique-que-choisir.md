@@ -46,8 +46,8 @@ couleur plus claire, mais surtout : elles ont des cordes en acier et un son
 "métallique" ; là où les guitares classiques ont trois cordes en acier (les 
 graves) mais aussi trois en nylon, ce qui leur donne un son moins tranchant. 
 S'agissant des styles de musique qui se jouent avec ces deux guitares, on peut 
-mentionner le classique et le jazz pour les guitares classiques, et le rock, la 
-pop et le blues pour la guitare folk.
+mentionner le classique et la musique latine pour les guitares classiques, et 
+le rock, la pop et le blues pour la guitare folk.
 
 {% include figure alt="Une guitare folk" image_path="/img/guitare-folk.jpg"
 caption="Une guitare folk" %}

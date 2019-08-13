@@ -24,7 +24,7 @@ morceaux ou d'imiter la sonorité de sa guitare.
 Il est toutefois important de savoir qu'en plus d'être gaucher (mais de jouer 
 sur des guitares pour droitiers), Jimi Hendrix avait la particularité de 
 s'accorder en Mi bémol, ce qui est un accordage différent de l'accordage 
-standard en Mi. Cette habitude prise dans les clubs *rythm'n'blues* américains 
+standard en Mi. Cette habitude prise dans les clubs *rhythm'n'blues* américains 
 qu'il a fréquentés au début de sa carrière lui permettait de jouer plus 
 facilement avec les cuivres, qui utilisent les tonalités Mi bémol ou Si bémol 
 la plupart du temps.

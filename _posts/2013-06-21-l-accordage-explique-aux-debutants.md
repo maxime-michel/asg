@@ -38,8 +38,9 @@ Pour commencer à accorder votre guitare, il faut jouer sur la mécanique (les
 mécaniques sont les éléments situés en haut du manche dans lesquels les cordes 
 sont enroulées) et faire en sorte, à l'oreille, que le La de référence 
 corresponde à un La de votre guitare. Cette étape est difficile à réaliser pour 
-le débutant, qui aura sans doute meilleur temps dans un premier temps d'acheter 
-un accordeur, mais il est important d'en comprendre le principe.
+le débutant, qui aura sans doute meilleur temps dans un premier temps 
+[d'acheter un accordeur][acheter-un-accordeur], mais il est important d'en 
+comprendre le principe.
 
 ## Les cordes de votre guitare
 
@@ -127,8 +128,9 @@ Félicitations, vous savez maintenant comment accorder une guitare ! C'est un
 très bon exercice pour travailler votre oreille, même s'il peut s'avérer 
 frustrant pour le débutant au départ. Pour un accordage plus précis et plus 
 rapide, je ne peux que vous recommander [d'acquérir un 
-accordeur](/acheter-un-accordeur/).
+accordeur][acheter-un-accordeur].
 
 [diapason]:http://bit.ly/diapason-wittner
 [autres-instruments]:/accorder-d-autres-instruments/
 [degats-instruments]:https://www.secretsdemusiciens.com/degats-materiels-instruments/
+[acheter-un-accordeur]:/acheter-un-accordeur/
