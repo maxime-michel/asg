@@ -54,6 +54,10 @@ que s'accorder différemment : il a remplacé ses cordes par un jeu dont le
 tirant est très fort (13-58), ce qui participe à lui donner ce son plus épais 
 que la moyenne.
 
+#### Extrait
+
+{% include video id="0vo23H9J8o8" provider="youtube" %}
+
 ### Attention !
 
 Lorsque vous changez l'accordage de votre guitare, vous changez la tension que 
