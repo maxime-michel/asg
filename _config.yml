@@ -95,6 +95,9 @@ footer:
     - label: "Cours Skype"
       icon: "fab fa-fw fa-skype"
       url: https://www.secretsdemusiciens.com/a-propos/#cours-skype
+    - label: "Tune That Guitar"
+      icon: "fas fa-fw fa-link"
+      url: https://www.tunethatguitar.com/
 
 
 # Reading Files
