@@ -1,6 +1,6 @@
 ---
 date: 2011-08-15
-title: "3 Méthodes d'Accorder sa Guitare en 5 Minutes"
+title: "3 Manières d'Accorder sa Guitare en 5 Minutes"
 description: >
   Accordeur guitare en ligne, sons des cordes pour s'accorder à l'oreille, 
   guides pour débutants et astuces utilisées par les pros.
