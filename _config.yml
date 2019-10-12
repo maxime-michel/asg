@@ -89,9 +89,6 @@ footer:
     - label: "Politique de confidentialité"
       icon: "fas fa-fw fa-link"
       url: "/politique-de-confidentialite/"
-    - label: "Tune That Guitar"
-      icon: "fas fa-fw fa-link"
-      url: https://www.tunethatguitar.com/
 
 
 # Reading Files
