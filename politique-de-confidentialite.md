@@ -7,6 +7,7 @@ description: >
 layout: single
 classes: wide
 author_profile: true
+alt_slug: privacy-policy
 ---
 
 Le respect de la vie privée de mes visiteurs est capital. Cette politique de 

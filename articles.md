@@ -6,4 +6,5 @@ collection: posts
 entries_layout: grid
 description: >
   Liste des articles sur Accorder sa guitare.
+alt_slug: posts
 ---

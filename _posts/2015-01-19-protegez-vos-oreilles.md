@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/salle-concert.jpg
+alt_slug: protect-your-hearing
 ---
 
 Vous avez peut-être déjà entendu parler des acouphènes par un ami qui en 

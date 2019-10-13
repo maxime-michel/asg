@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/touches-piano.jpg
+alt_slug: tune-other-common-instruments
 ---
 
 Bien que ce site attire une majorité de guitaristes, les outils qu'il propose 

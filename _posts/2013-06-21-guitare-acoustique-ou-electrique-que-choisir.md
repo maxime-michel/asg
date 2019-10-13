@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/differentes-guitares.jpg
+alt_slug: acoustic-vs-electric-guitar-which-to-pick
 ---
 
 Parmi les questions que les débutants posent lorsqu'ils veulent apprendre la 

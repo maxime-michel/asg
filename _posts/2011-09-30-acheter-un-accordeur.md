@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/mecaniques-guitare.jpg
+alt_slug: which-guitar-tuner-should-i-buy
 ---
 
 <style>

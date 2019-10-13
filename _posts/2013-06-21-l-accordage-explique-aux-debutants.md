@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/livre-partition.jpg
+alt_slug: tuning-a-guitar-for-dummies
 ---
 
 <style>

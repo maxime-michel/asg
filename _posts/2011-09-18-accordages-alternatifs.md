@@ -8,6 +8,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /img/guitare-folk-veste-cuir.jpg
+alt_slug: alternate-tunings
 ---
 
 Cet article détaille les accordages utilisés par [Jimi Hendrix][hendrix], 
