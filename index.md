@@ -81,6 +81,108 @@ standard), qui vous permettront de vous accorder à l'oreille, ce qui est un
   </tr>
 </table>
 
+## Foire aux questions
+
+### Quand faut-il que j'accorde ma guitare ?
+
+L'idéal est de le faire à chaque fois avant de commencer à jouer.
+
+### Une de mes cordes s'est cassée !
+
+Cela arrive ! Sur les guitares qui n'ont pas été jouées depuis longtemps, les 
+cordes s'oxydent avec le temps ; sur les guitares neuves, les cordes ne sont en 
+général pas de très bonne qualité. Quoi qu'il en soit, les cordes d'une guitare 
+sont à changer régulièrement. Je recommande aux débutants de se rendre dans un 
+magasin de musique et de laisser un technicien réaliser cette opération pour 
+eux. Une corde qui se brise lorsqu'on joue est une chose, mais lorsqu'on la 
+monte, cela peut être dangereux, pour les yeux en particulier.
+
+### Quels autres accordages existent, à part le standard ?
+
+Très bonne question, j'en parle dans la page intitulée [Exemples d’accordages 
+alternatifs (rock)][accordages-alt]. Cette page est loin d'être exhaustive et 
+c'est un sujet que je conseille à chaque guitariste d'explorer.
+
+### Je n'ai pas de talent…
+
+Bienvenue au club ! C'est à peu près l'impression de chaque musicien quel que 
+soit son niveau. On voudrait toujours mieux jouer, et cette quête ne s'arrête 
+jamais. Pour garder un certain plaisir malgré tout, je donne des conseils sur 
+l'état d'esprit à adopter (entre autres) sur [Secrets de musiciens][sdm].
+
+### Quelle guitare choisir ?
+
+La page [Guitare acoustique ou électrique : que choisir ?][choix-guit] présente 
+les différences entre les guitares classiques, folk et électriques ; photos et 
+extraits audio à l'appui. Une très bonne lecture !
+
+### Et si je n'ai pas l'oreille absolue ?
+
+Cela ne change strictement rien, c'est le cas de la majorité des musiciens que 
+l'on entend à la radio ou que l'on voit en concert. Plus de détails à ce sujet 
+sur la page [Oreille absolue ou relative][oreille-absolue].
+
+### Peut-on devenir bon en musique si l'on commence tard ?
+
+Evidemment. Contrairement à ce que l'on croit, débuter la musique jeune ne 
+garantit pas le succès, j'en veux pour preuve le nombre d'ex-musiciens qui 
+"jouaient d'un instrument pendant leur enfance, puis ont arrêté car les 
+morceaux travaillés pendant les cours ne le motivaient pas".
+
+Quelqu'un qui apprend la musique à l'âge adulte sera toutefois moins connecté 
+avec son intuition qu'un enfant, et le risque est que l'égo ou l'intelligence 
+interfère (recherche de vitesse, impatience, manque de confiance, etc.). Par 
+ailleurs, un adulte a souvent beaucoup moins de temps libre à sa disposition, 
+donc la rigueur doit être de mise.
+
+### C'est vraiment nécessaire la théorie ?
+
+Très bonne question à laquelle la page [Faut-il apprendre la 
+théorie ?][appr-theorie] est dédiée. En une phrase : si la théorie vous ennuie 
+au possible et que vous savez déjà qu'elle vous dégoûtera de l'instrument, 
+continuez d'explorer la musique sans elle. Si en revanche vous vous retrouvez à 
+un moment ou à un autre bloqué dans votre apprentissage, alors peut-être 
+qu'elle pourra vous aider.
+
+### Faut-il se droguer, boire ou fumer pour réussir en musique ?
+
+Certainement pas ! J'ai dédié à cette question la page [En finir avec le destin 
+tragique de l'artiste][destin-tragique] car il s'agit là aussi (comme pour 
+[l'oreille absolue][oreille-absolue]) d'un préjugé grotesque qui ne sert à rien 
+si ce n'est mettre les gens sur la mauvaise voie.
+
+### Ma guitare n'arrête pas de se dérégler !
+
+Si c'est une guitare neuve ou au contraire qui n'a plus été jouée depuis 
+longtemps, c'est peut-être normal. Si ça ne s'améliore pas avec le temps, un 
+rendez-vous dans un (ou plusieurs) magasins de musique peut s'avérer utile. 
+Changer d'instrument est aussi une solution. On peut aussi faire attention à 
+[la manière dont on stocke ses instruments][degats-materiels].
+
+### Faut-il que je prenne des cours ?
+
+Dans l'idéal, oui, les progrès seront plus rapides, mais cela dépend des 
+situations. Il faut évidemment avoir des écoles ou professeurs de musique près 
+de chez soi, trouver une personne de confiance, avoir le budget pour les cours, 
+etc. A noter qu'en ce qui me concerne, les cours de musique en ligne (comme 
+ceux d'[imusic-school][imusic-school]) m'ont beaucoup aidé et présentent 
+l'avantage d'être bon marché ainsi que de ne pas dépendre de l'endroit où l'on 
+vit.
+
+### J'ai de la peine à m'accorder à l'oreille…
+
+C'est normal, c'est un exercice difficile. Je donne toutefois plus de détails 
+sur la page [Accorder sa guitare à l'oreille][accord-oreille].
+
 [debutants]:/l-accordage-explique-aux-debutants/
 [acheter-un-accordeur]:/acheter-un-accordeur/
 [korg-pc2]:http://bit.ly/korg-pc2
+[accordages-alt]:/accordages-alternatifs/
+[sdm]:https://www.secretsdemusiciens.com/
+[choix-guit]:/guitare-acoustique-ou-electrique-que-choisir/
+[oreille-absolue]:https://www.secretsdemusiciens.com/oreille-absolue-ou-relative/
+[appr-theorie]:https://www.secretsdemusiciens.com/apprendre-la-theorie-ou-non/
+[destin-tragique]:https://www.secretsdemusiciens.com/destin-tragique-de-l-artiste/
+[degats-materiels]:https://www.secretsdemusiciens.com/degats-materiels-instruments/
+[imusic-school]:http://bit.ly/2J12ZFS
+[accord-oreille]:https://www.secretsdemusiciens.com/accorder-sa-guitare-a-l-oreille/
