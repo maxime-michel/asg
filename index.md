@@ -43,6 +43,7 @@ Il est toutefois conseillé [d'acquérir un accordeur
 dédié][acheter-un-accordeur]. Le modèle recommandé est l'accordeur à pince 
 [Korg PC-2 Pitchclip][korg-pc2]. Les raisons principales sont :
 
+- avoir un accordage plus précis,
 - ne pas avoir besoin de son ordinateur ou téléphone,
 - avoir l'accordeur directement sur la guitare,
 - pouvoir s'accorder même dans un environnement bruyant,
