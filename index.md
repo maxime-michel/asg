@@ -4,6 +4,13 @@ title: "3 Manières d'Accorder sa Guitare en 5 Minutes"
 description: >
   Accordeur guitare en ligne, sons des cordes pour s'accorder à l'oreille, 
   guides pour débutants et astuces utilisées par les pros.
+excerpt: "Accordeur guitare en ligne, sons des cordes pour s'accorder à 
+l'oreille, guides pour débutants et astuces utilisées par les pros."
+header:
+  teaser: /img/guitare-folk_300.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /img/guitare-folk.jpg
 slug: "index"
 ---
 
