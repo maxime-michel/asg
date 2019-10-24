@@ -163,7 +163,7 @@ si ce n'est mettre les gens sur la mauvaise voie.
 
 Si c'est une guitare neuve ou au contraire qui n'a plus été jouée depuis 
 longtemps, c'est peut-être normal. Si ça ne s'améliore pas avec le temps, un 
-rendez-vous dans un (ou plusieurs) magasins de musique peut s'avérer utile. 
+rendez-vous dans un (ou plusieurs) magasin de musique peut s'avérer utile. 
 Changer d'instrument est aussi une solution. On peut aussi faire attention à 
 [la manière dont on stocke ses instruments][degats-materiels].
 
