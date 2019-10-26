@@ -73,9 +73,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCExG5xuiBvGxSuuJNTj3wUw
+    - label: "Secrets de Musiciens"
+      icon: "fas fa-fw fa-link"
+      url: https://www.secretsdemusiciens.com/
 
 # Site Footer
 footer:
@@ -83,9 +83,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:maxime@accordersaguitare.com
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCExG5xuiBvGxSuuJNTj3wUw
+    - label: "Secrets de Musiciens"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.secretsdemusiciens.com/"
     - label: "Politique de confidentialité"
       icon: "fas fa-fw fa-link"
       url: "/politique-de-confidentialite/"
