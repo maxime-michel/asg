@@ -172,10 +172,9 @@ Changer d'instrument est aussi une solution. On peut aussi faire attention à
 Dans l'idéal, oui, les progrès seront plus rapides, mais cela dépend des 
 situations. Il faut évidemment avoir des écoles ou professeurs de musique près 
 de chez soi, trouver une personne de confiance, avoir le budget pour les cours, 
-etc. A noter qu'en ce qui me concerne, les cours de musique en ligne (comme 
-ceux d'[imusic-school][imusic-school]) m'ont beaucoup aidé et présentent 
-l'avantage d'être bon marché ainsi que de ne pas dépendre de l'endroit où l'on 
-vit.
+etc. A noter qu'en ce qui me concerne, les cours de musique en ligne m'ont 
+beaucoup aidé et présentent l'avantage d'être bon marché ainsi que de ne pas 
+dépendre de l'endroit où l'on vit.
 
 ### J'ai de la peine à m'accorder à l'oreille…
 
@@ -192,5 +191,4 @@ sur la page [Accorder sa guitare à l'oreille][accord-oreille].
 [appr-theorie]:https://www.secretsdemusiciens.com/apprendre-la-theorie-ou-non/
 [destin-tragique]:https://www.secretsdemusiciens.com/destin-tragique-de-l-artiste/
 [degats-materiels]:https://www.secretsdemusiciens.com/degats-materiels-instruments/
-[imusic-school]:http://bit.ly/2J12ZFS
 [accord-oreille]:https://www.secretsdemusiciens.com/accorder-sa-guitare-a-l-oreille/

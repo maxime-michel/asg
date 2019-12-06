@@ -229,6 +229,3 @@ defaults:
       share: true
       related: true
       classes: wide
-      sidebar:
-        - text: >
-            <a href="http://bit.ly/32rrFi0" target="_blank"><img src="/img/banniere-imusic-school.gif" alt="Offre imusic school" width="300" height="250" style="max-width: 300px;" /></a>
